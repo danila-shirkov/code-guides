@@ -1,0 +1,50 @@
+{
+  "title": "Artículos y guías útiles para desarrolladores",
+  "description": "Artículos y guías útiles para desarrolladores",
+  "author": "Kirill Mokevnin",
+  "locale": "es_ES",
+  "hero": {
+    "header": "Artículos sobre tecnologías, herramientas y prácticas",
+    "description": "Material útil para aquellos que están comenzando su camino en el desarrollo. Presentamos los términos clave y explicamos de manera sencilla los procesos complejos"
+  },
+  "navbar": {
+    "source_code": {
+      "title": "Código fuente"
+    },
+    "programs": {
+      "title": "Programas de aprendizaje",
+      "url": "https://es.hexlet.io/programs?utm_source=hexlet-guides&utm_medium=referral"
+    }
+  },
+  "footer": {
+    "about": {
+      "title": "Acerca del proyecto"
+    },
+    "webinars": {
+      "title": "Cursos y webinars gratuitos",
+      "url": "https://es.hexlet.io/webinars?utm_campaign=hexlet&utm_content=link&utm_term=page_webinars"
+    },
+    "codebattle": {
+      "title": "Entrenamiento algorítmico",
+      "url": "https://codebattle.hexlet.io/"
+    },
+    "cv": {
+      "title": "Evaluación de currículum",
+      "url": "https://cv.hexlet.io/"
+    },
+    "policy": {
+      "title": "Política de privacidad",
+      "url": "https://es.hexlet.io/pages/privacy"
+    }
+  },
+  "disqus": {
+    "noscript": {
+      "prefix": "Habilita JavaScript para ver los",
+      "link": "comentarios impulsados por Disqus."
+    },
+    "link": {
+      "prefix": "comentarios impulsados por",
+      "logo": "Disqus"
+    }
+  }
+}

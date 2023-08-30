@@ -1,0 +1,8 @@
+{
+  "page": {
+    "title": "Acerca del proyecto",
+    "description": "Acerca de Hexlet Guides",
+    "p1": "Hexlet Guides es un proyecto de código abierto creado y mantenido por la comunidad de Hexlet. Únete a nuestra comunidad, publica nuevas guías o ayuda con la edición.",
+    "p2": "El sitio cuenta con un mecanismo para enviar mensajes sobre un fragmento de texto seleccionado. La combinación <kbd>ctrl + enter</kbd> muestra una ventana a través de la cual puedes informar un problema o sugerir una alternativa de texto. También puedes enviar un <a href=\"https://github.com/Hexlet/hexletguides.github.io\" target=\"_blank\">Pull request</a> con la corrección."
+  }
+}
