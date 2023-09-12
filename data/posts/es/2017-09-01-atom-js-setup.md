@@ -9,7 +9,7 @@ author: Rahim Davletkaliyev
 
 **[Atom](https://atom.io/) es un popular editor de código gratuito creado por los desarrolladores de GitHub para programadores. Se encuentra en constante desarrollo y cuenta con cientos de complementos, lo que lo hace fácilmente personalizable según tus necesidades.**
 
-Atom está construido sobre la tecnología [Electron](https://electron.atom.io/), lo que significa que funciona en Windows, Linux y macOS. Algunas de las características básicas del editor, disponibles después de la instalación, son:
+Atom está construido sobre la tecnología [Electron](https://www.electronjs.org/es/), lo que significa que funciona en Windows, Linux y macOS. Algunas de las características básicas del editor, disponibles después de la instalación, son:
 
 - Resaltado de sintaxis para varios lenguajes populares y formatos de archivo
 - Navegación conveniente
