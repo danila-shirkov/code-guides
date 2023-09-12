@@ -33,7 +33,7 @@ Para instalar un nuevo paquete, ve a la configuración, selecciona la pestaña "
 
 Primero, debes instalar eslint en tu sistema y luego instalar la extensión de Atom que utilizará el linter instalado. Hay diferentes formas de integrar el linter con la extensión. Vamos a ver cómo instalar el linter globalmente en el sistema.
 
-1. Instala Node.js utilizando el [gestor de paquetes de tu sistema operativo](https://nodejs.org/en/download/package-manager/).
+1. Instala Node.js utilizando el [gestor de paquetes de tu sistema operativo](https://nodejs.org/es/download/package-manager/).
 2. Instala eslint ejecutando el comando `npm install -g eslint`. Es posible que necesites usar `sudo`.
 3. Instala los complementos que configuran `eslint`. Sin ellos (por defecto), `eslint` no realizará ninguna verificación.
 	```shell
