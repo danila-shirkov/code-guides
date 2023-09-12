@@ -11,11 +11,11 @@ author: Rahim Davletkaliyev
 
 Atom está construido sobre la tecnología [Electron](https://electron.atom.io/), lo que significa que funciona en Windows, Linux y macOS. Algunas de las características básicas del editor, disponibles después de la instalación, son:
 
-- Resaltado de sintaxis para varios lenguajes populares y formatos de archivo.
-- Navegación conveniente.
-- Vista previa integrada de [Markdown](/markdown/).
-- Autocompletado inteligente.
-- Gestor de paquetes integrado.
+- Resaltado de sintaxis para varios lenguajes populares y formatos de archivo
+- Navegación conveniente
+- Vista previa integrada de [Markdown](/markdown/)
+- Autocompletado inteligente
+- Gestor de paquetes integrado
 
 <Banner name="profession-frontend" />
 
