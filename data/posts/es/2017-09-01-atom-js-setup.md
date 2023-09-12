@@ -13,7 +13,7 @@ Atom está construido sobre la tecnología [Electron](https://www.electronjs.org
 
 - Resaltado de sintaxis para varios lenguajes populares y formatos de archivo
 - Navegación conveniente
-- Vista previa integrada de [Markdown](https://markdown.es)
+- Vista previa integrada de [Markdown](https://markdown.es/)
 - Autocompletado inteligente
 - Gestor de paquetes integrado
 
