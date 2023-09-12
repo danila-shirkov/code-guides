@@ -14,7 +14,7 @@ author: Rahim Davletkaliyev
 - Herramientas convenientes para trabajar con Git
 - Resaltado de sintaxis para muchos lenguajes populares y formatos de archivo
 - Navegación conveniente
-- Vista previa integrada de [Markdown](/markdown/)
+- Vista previa integrada de [Markdown](https://markdown.es/)
 - Autocompletado inteligente
 - Administrador de paquetes integrado
 
