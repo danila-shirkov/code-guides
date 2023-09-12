@@ -7,7 +7,7 @@ hidden: true
 author: Rahim Davletkaliyev
 ---
 
-**[Visual Studio Code](https://code.visualstudio.com/) es un popular editor de código gratuito creado por Microsoft para programadores. VS Code no está relacionado con Visual Studio. VS Code es más rápido que [Atom](/atom-js-setup/), está en constante desarrollo y se puede ampliar fácilmente con complementos.**
+**[Visual Studio Code](https://code.visualstudio.com/) es un popular editor de código gratuito creado por Microsoft para programadores. VS Code no está relacionado con Visual Studio. VS Code es más rápido que [Atom](https://atom.io/), está en constante desarrollo y se puede ampliar fácilmente con complementos.**
 
 - Depurador de código
 - Terminal integrado
