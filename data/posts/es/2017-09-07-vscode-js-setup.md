@@ -59,7 +59,7 @@ Puede obtener más información sobre las tareas en el sitio web de VS Code [aqu
 
 Primero, debe instalar eslint en su sistema y luego instalar la extensión de VS Code que utilizará el linter instalado. Hay diferentes formas de integrar el linter con la extensión. Veremos cómo instalar el linter globalmente en el sistema.
 
-1. Instale Node.js utilizando el [administrador de paquetes de su sistema operativo](https://nodejs.org/en/download/package-manager/).
+1. Instale Node.js utilizando el [administrador de paquetes de su sistema operativo](https://nodejs.org/es/download/package-manager/).
 2. Instale eslint con el comando `npm install -g eslint`. Es posible que necesite usar `sudo`.
 3. Instale los complementos que configuran `eslint`. Sin ellos (por defecto), `eslint` no realizará ninguna verificación.
 
