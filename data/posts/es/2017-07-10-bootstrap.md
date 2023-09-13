@@ -60,7 +60,7 @@ El proceso de desarrollo se acompaña de un trabajo continuo para agregar o elim
 
 #### Compatibilidad entre navegadores
 
-En el espacio web hay muchos navegadores diferentes: Chrome, Firefox, Edge, Opera, Safari, etc. Estos navegadores brindan a los usuarios una experiencia de navegación cómoda. Sin embargo, cada uno de estos navegadores puede interpretar HTML y CSS de manera ligeramente diferente, lo que obliga a los maquetadores a estandarizar los elementos estándar. Esta tarea requiere un enfoque meticuloso y conocimiento de los problemas y diferencias comunes entre los navegadores. Los componentes de Bootstrap tienen en cuenta las diferencias entre los navegadores y están optimizados para minimizar las diferencias entre ellos.
+En el espacio web hay muchos navegadores diferentes: Chrome, Firefox, Edge, Opera, Safari, etc. Estos navegadores brindan a los usuarios una experiencia de navegación cómoda. Sin embargo, cada uno de estos navegadores puede interpretar HTML y CSS de manera ligeramente diferente, por lo que los maquetadores tienen que conseguir que los elementos estándar tengan un aspecto uniforme. Esta tarea requiere un enfoque meticuloso y conocimiento de los problemas y diferencias comunes entre los navegadores. Los componentes de Bootstrap tienen en cuenta las diferencias entre los navegadores y están optimizados para minimizar las diferencias entre ellos.
 
 #### Adaptabilidad
 
@@ -72,7 +72,7 @@ Los desarrolladores prestan atención al uso de componentes por parte de persona
 
 #### Baja barrera de entrada
 
-Crear una página utilizando componentes no requiere un conocimiento experto de HTML y CSS. Esto permite que cualquier empleado de la empresa que tenga conocimientos básicos de maquetación pueda crear nuevos bloques. Por lo tanto, los desarrolladores pueden equipar una nueva solución con maquetación lista para usar utilizando el framework. Bootstrap también puede ser útil para pequeñas empresas que no están listas para gastar mucho dinero en el desarrollo de un sitio web. Bootstrap es una solución intermedia indispensable. Con el tiempo, es posible que decidan quedarse con él, como lo hemos hecho en Hexlet.
+Crear una página utilizando componentes no requiere un conocimiento avanzado de HTML y CSS. Esto permite que cualquier empleado de la empresa que tenga conocimientos básicos de maquetación pueda crear nuevos bloques. Por lo tanto, los desarrolladores pueden equipar una nueva solución con maquetación lista para usar mediante el framework. Bootstrap también puede ser útil para pequeñas empresas que no están listas para gastar mucho dinero en el desarrollo de un sitio web. Bootstrap es una solución intermedia indispensable. Con el tiempo, es posible que decidan quedarse con él, como lo hemos hecho en Hexlet.
 
 ### Desventajas de utilizar Bootstrap como conjunto de elementos listos para usar
 
