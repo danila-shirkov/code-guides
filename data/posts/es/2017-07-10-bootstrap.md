@@ -56,7 +56,7 @@ Los componentes y utilidades permiten crear proyectos de diferentes niveles de c
 
 #### Velocidad
 
-El proceso de desarrollo se acompaña de un trabajo continuo para agregar o eliminar funcionalidades en la página. Cuanto más grande es el proyecto, más frecuentes son estos procesos y la velocidad de implementación no depende en último término de cuán rápido la funcionalidad se "adapte" a la apariencia. Al utilizar componentes y utilidades predefinidos de Bootstrap, se puede agregar rápidamente nueva funcionalidad al sitio web y ofrecérsela a los usuarios. Esto resuelve uno de los problemas del ciclo "idea - funcionalidad - maquetación".
+El proceso de desarrollo se acompaña de un trabajo continuo para agregar o eliminar funcionalidades en la página. Cuanto más grande es el proyecto, más frecuentes son estos procesos y la velocidad de implementación no depende en último término de cuán rápido la funcionalidad se "adapte" a la apariencia. Al utilizar componentes y utilidades predefinidos de Bootstrap, se puede agregar rápidamente nuevas funcionalidades al sitio web y ofrecérselas a los usuarios. Esto resuelve uno de los problemas del ciclo "idea - funcionalidad - maquetación".
 
 #### Compatibilidad entre navegadores
 
