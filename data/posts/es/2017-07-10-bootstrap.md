@@ -16,7 +16,7 @@ Para resolver el problema de la velocidad, los desarrolladores constantemente in
 
 En 2010, en las oficinas de Twitter, surgió el proyecto Twitter Blueprint. Su objetivo era crear un sistema para desarrollar nuevos componentes dentro de la empresa. Twitter Blueprint tenía un conjunto de bloques básicos con un diseño predefinido que se utilizaba en la empresa. Esta solución se hizo popular dentro de la empresa debido a su simplicidad, ya que cualquier empleado con experiencia mínima en desarrollo podía crear un nuevo concepto de bloque y proponerlo para su posterior desarrollo.
 
-Ese mismo año, durante la semana de hackeo de Twitter, el proyecto ganó popularidad. No solo fue reconocido dentro de la empresa, sino también fuera de ella. Esta solución no podía seguir siendo un desarrollo interno y en 2011 el proyecto se lanzó al público bajo el nombre de Bootstrap. Desde entonces, Bootstrap ha mantenido su liderazgo entre las herramientas de creación de sitios web. Según diversas estadísticas, el framework se utiliza en el 17% al 30% de todos los sitios web en Internet. El código de Bootstrap se puede encontrar en sitios web de proyectos como:
+Ese mismo año, durante el evento Twitter Hack Week, el proyecto ganó popularidad. No solo fue reconocido dentro de la empresa, sino también fuera de ella. Esta solución no podía seguir siendo un desarrollo interno y en 2011 el proyecto se lanzó al público bajo el nombre de Bootstrap. Desde entonces, Bootstrap ha mantenido su liderazgo entre las herramientas de creación de sitios web. Según diversas estadísticas, el framework se utiliza en el 17% al 30% de todos los sitios web en Internet. El código de Bootstrap se puede encontrar en sitios web de proyectos como:
 
 * Hexlet,
 * GitHub,
