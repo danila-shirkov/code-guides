@@ -3,7 +3,7 @@ title: |
   Bootstrap en palabras sencillas: qué es, para qué sirve y cómo funciona el framework
 header: ¿Qué es Bootstrap y cómo funciona?
 subtitle: Framework de front-end para un desarrollo web rápido y sencillo.
-description: Hablamos sobre el framework para crear y diseñar sistemas front-end que los maquetadores suelen utilizar con frecuencia.
+description: Hablaremos sobre el framework para crear y diseñar sistemas front-end que los maquetadores suelen utilizar con frecuencia.
 image: "/assets/images/bootstrap/bootstrap.png"
 author: Nikita Mikhaylov
 ---
