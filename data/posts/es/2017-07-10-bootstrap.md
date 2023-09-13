@@ -176,7 +176,7 @@ De esta manera, se pueden agregar no solo elementos de la cuadrícula, sino tamb
 
 ## Conclusiones
 
-Aprender Bootstrap puede ayudar a desarrollarte como desarrollador. Además de escribir tu propio código, puedes estudiar el código de otras personas que ha sido creado y mantenido por miles de personas en todo el mundo. En el código, puedes encontrar soluciones interesantes, una estructura bien organizada y muchas funciones útiles. Gracias a esto, Bootstrap se puede utilizar en una variedad de escenarios, desde la creación de prototipos hasta la maquetación de diseños complejos, y la capacidad de utilizar partes individuales permite agregar un toque de Bootstrap a un proyecto sin tener que rehacer toda la estructura.
+Aprender Bootstrap puede ayudarte a crecer como desarrollador. Además de escribir tu propio código, puedes estudiar el código de otras personas que ha sido creado y mantenido por miles de personas en todo el mundo. En el código, puedes encontrar soluciones interesantes, una estructura bien organizada y muchas funciones útiles. Gracias a esto, Bootstrap se puede utilizar en una variedad de escenarios, desde la creación de prototipos hasta la maquetación de diseños complejos, y la capacidad de utilizar partes individuales permite agregar un toque de Bootstrap a un proyecto sin tener que rehacer toda la estructura.
 
 ## Enlaces adicionales
 
