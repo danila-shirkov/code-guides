@@ -8,7 +8,7 @@ image: "/assets/images/bootstrap/bootstrap.png"
 author: Nikita Mikhaylov
 ---
 
-El desarrollo de una página web desde la perspectiva de un maquetador es un proceso continuo de mejora y creación de nuevos bloques. Cuanto más grande es el proyecto, más frecuentes son las iteraciones de "idea - funcionalidad - maquetación". Al resolver los problemas del negocio, las etapas deben resolverse de manera rápida y de calidad. Si bien la calidad de la maquetación depende directamente del maquetador, la velocidad es un factor que depende del equipo.
+El desarrollo de una página web desde la perspectiva de un maquetador es un proceso continuo de mejora y creación de nuevos bloques. Cuanto más grande es el proyecto, más frecuentes son las iteraciones de "idea - funcionalidad - maquetación". Al resolver los problemas empresariales, las etapas deben resolverse con rapidez y calidad. Si bien la calidad de la maquetación depende directamente del maquetador, la velocidad es un factor que depende del equipo.
 
 <Banner name="profession-markup" />
 
