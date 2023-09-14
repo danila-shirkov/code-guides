@@ -77,22 +77,21 @@ _Cumplir con estas prácticas no garantiza que no haya problemas en la empresa. 
 * El equipo revisa el código de los demás (sin fanatismo). La revisión no solo es una forma de encontrar errores, sino también una forma de aprender unos de otros.
 * [Programación en pareja](https://es.wikipedia.org/wiki/Programaci%C3%B3n_en_pareja). La técnica es efectiva no solo entre programadores. Es muy útil en parejas "programador y probador", "novato y experimentado".
 * [Integración continua (CI)](https://es.wikipedia.org/wiki/Integraci%C3%B3n_continua). Los repositorios del proyecto están conectados a un servidor de integración continua, donde después de cada confirmación se verifica el estilo de codificación (a través de la ejecución de linters), se ejecutan pruebas y se realiza la construcción del proyecto (por ejemplo, compilación).
-* En caso de incidentes, se realizan [post-mortem](https://www.pagerduty.com/resources/learn/post-mortem-incident-report/).
-* [Retrospectiva](https://ru.wikipedia.org/wiki/Ретроспектива_в_программировании). El proceso se mejora continuamente y cada miembro del equipo influye en los cambios.
+* En caso de incidentes, se realizan [post-mortem](https://kryptonsolid.com/realice-una-autopsia-de-incidente-para-la-mejora-continua-de-devops/).
+* [Retrospectiva](https://openwebinars.net/blog/que-es-una-retrospectiva/). El proceso se mejora continuamente y cada miembro del equipo influye en los cambios.
 
 **Mal**
 
 * No hay pruebas. La funcionalidad nueva se verifica solo manualmente, haciendo clic. Las consecuencias son catastróficas: la velocidad de entrega es baja y es probable que la calidad del código sea insatisfactoria.
 * No hay revisión de código. Diferentes estilos de codificación, aislamiento de los programadores entre sí, intercambio de experiencia deficiente, malas decisiones en producción.
 * El programador considera que la función está completa cuando el código se fusiona en la rama principal. El nuevo código es una carga muerta y no aporta beneficios. Puede volverse obsoleto antes de que llegue al cliente.
-* [KPI](https://ru.wikipedia.org/wiki/Ключевые_показатели_эффективности). Se utilizan activamente métricas cuantitativas: líneas de código, características lanzadas, errores cerrados. En lugar de orientarse a los resultados, los desarrolladores se esfuerzan por cumplir con los KPI. Incluso si esto va en contra de los objetivos del negocio.
+* [KPI](https://es.wikipedia.org/wiki/Indicador_clave_de_rendimiento). Se utilizan activamente métricas cuantitativas: líneas de código, características lanzadas, errores cerrados. En lugar de orientarse a los resultados, los desarrolladores se esfuerzan por cumplir con los KPI. Incluso si esto va en contra de los objetivos del negocio.
 * Alto nivel de formalización de los procesos. La velocidad disminuye, la motivación disminuye.
 
 **Enlaces**
 
-* [Programación Extrema](https://ru.wikipedia.org/wiki/Экстремальное_программирование)
-* [Programación en pareja (presentación de Nikolay Ryzhikov)](https://www.youtube.com/watch?v=Vu5ujdZDS6E)
-* [Cómo difundir la cultura de ingeniería en su empresa](https://www.youtube.com/watch?v=mOfiWrTW9dA)
+* [Programación Extrema](https://es.wikipedia.org/wiki/Programaci%C3%B3n_extrema)
+* [Programación en pareja (presentación de Lucas Moy)](https://www.youtube.com/watch?v=odv-3GdPSys&ab_channel=ATLAcademy%28byLucasMoy%29)
 
 ## Proceso de desarrollo
 
