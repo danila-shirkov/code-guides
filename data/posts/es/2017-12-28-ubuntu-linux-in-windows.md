@@ -28,7 +28,7 @@ Este comando también descargará e instalará la distribución de Ubuntu Linux.
 
 Después de reiniciar, busca la aplicación Ubuntu en el menú de inicio y ejecútala.
 
-Es posible que la primera ejecución muestre un error `Error: 0x8007007e` y te ofrezca leer las instrucciones para solucionarlo en [https://aka.ms/wslinstall](https://aka.ms/wslinstall). Si quieres ahorrar tiempo, simplemente ejecuta PowerShell (no confundir con cmd) como administrador y ejecuta el siguiente comando:
+Es posible que la primera ejecución muestre un error `Error: 0x8007007e` y te ofrezca leer las instrucciones para solucionarlo en [https://aka.ms/wslinstall](https://aka.ms/wslinstall). Si quieres ahorrar tiempo, simplemente ejecuta PowerShell (no confundir con `cmd`) como administrador y ejecuta el siguiente comando:
 
 ```powershell
 Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
@@ -44,14 +44,14 @@ For more information visit: https://aka.ms/wslusers
 Enter new UNIX username:
 ```
 
-Los datos de inicio de sesión y contraseña no están relacionados con tu usuario de Windows, así que elige nuevos y no los olvides. Para cambiar la contraseña de Ubuntu en el futuro, necesitarás el comando `passwd`.
+Los datos de inicio de sesión y contraseña no están relacionados con tu usuario de Windows, así que elige nuevos y no los olvides. Para cambiar la contraseña de Ubuntu en el futuro, necesitarás el comando `passwd`
 
-Ten en cuenta las instrucciones oficiales de Microsoft, donde se explican no solo la instalación y configuración de WSL y Ubuntu, sino también la configuración del entorno de desarrollo (VSCode, Git).
+Ten en cuenta las instrucciones oficiales de Microsoft, donde se explican no solo la instalación y configuración de WSL y Ubuntu, sino también la configuración del entorno de desarrollo (VSCode, Git)
 
 * [Configuración del entorno de desarrollo de WSL](https://docs.microsoft.com/es-es/windows/wsl/setup/environment)
 * [WSL + VSCode](https://docs.microsoft.com/es-es/windows/wsl/tutorials/wsl-vscode)
 
-## Otras opciones
+## Otros modos
 
 Si no puedes instalar WSL, puedes utilizar otras opciones de virtualización para instalar Linux. Consulta nuestras otras guías:
 
