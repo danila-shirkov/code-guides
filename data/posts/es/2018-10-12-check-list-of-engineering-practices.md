@@ -38,9 +38,9 @@ _Cumplir con estas prácticas no garantiza que no haya problemas en la empresa. 
 
 **Bien**
 
-* [VCS](https://ru.wikipedia.org/wiki/VCS). El código está bajo control de versiones (generalmente Git).
-* [Código compartido](https://ru.wikipedia.org/wiki/Экстремальное_программирование#Коллективное_владение). Cualquier miembro del equipo puede cambiar cualquier parte del sistema en cualquier momento.
-* [Estilo de código consistente](https://ru.wikipedia.org/wiki/Экстремальное_программирование#Стандарты_оформления_кода). Todos en el equipo siguen los estándares de codificación establecidos para esa pila (lenguaje, plataforma).
+* [VCS](https://es.wikipedia.org/wiki/Control_de_versiones). El código está bajo control de versiones (generalmente Git).
+* [Código compartido](https://es.wikipedia.org/wiki/Programaci%C3%B3n_extrema). Cualquier miembro del equipo puede cambiar cualquier parte del sistema en cualquier momento.
+* [Estilo de código consistente](https://es.wikipedia.org/wiki/Programaci%C3%B3n_extrema). Todos en el equipo siguen los estándares de codificación establecidos para esa pila (lenguaje, plataforma).
 
 **Mal**
 
@@ -75,8 +75,8 @@ _Cumplir con estas prácticas no garantiza que no haya problemas en la empresa. 
 * Una función parcialmente probada o incluso una función sin pruebas no se considera completa. Tener pruebas reduce significativamente la carga en todos los demás miembros del equipo y tiene un impacto positivo en la calidad de la solución del problema. Además, a menudo sucede que si no se escriben pruebas de inmediato, luego no habrá tiempo para ellas.
 * El programador es responsable de la función hasta el final. La función se considera completa solo cuando funciona en producción. Cada persona en el equipo debe entender que el objetivo más importante es entregar valor al cliente. Mientras nadie esté utilizando las funciones, no importa si están escritas o no, porque el negocio se queda sin nada en ese momento.
 * El equipo revisa el código de los demás (sin fanatismo). La revisión no solo es una forma de encontrar errores, sino también una forma de aprender unos de otros.
-* [Programación en pareja](https://ru.wikipedia.org/wiki/Парное_программирование). La técnica es efectiva no solo entre programadores. Es muy útil en parejas "programador y probador", "novato y experimentado".
-* [Integración continua (CI)](https://ru.wikipedia.org/wiki/Непрерывная_интеграция). Los repositorios del proyecto están conectados a un servidor de integración continua, donde después de cada confirmación se verifica el estilo de codificación (a través de la ejecución de linters), se ejecutan pruebas y se realiza la construcción del proyecto (por ejemplo, compilación).
+* [Programación en pareja](https://es.wikipedia.org/wiki/Programaci%C3%B3n_en_pareja). La técnica es efectiva no solo entre programadores. Es muy útil en parejas "programador y probador", "novato y experimentado".
+* [Integración continua (CI)](https://es.wikipedia.org/wiki/Integraci%C3%B3n_continua). Los repositorios del proyecto están conectados a un servidor de integración continua, donde después de cada confirmación se verifica el estilo de codificación (a través de la ejecución de linters), se ejecutan pruebas y se realiza la construcción del proyecto (por ejemplo, compilación).
 * En caso de incidentes, se realizan [post-mortem](https://www.pagerduty.com/resources/learn/post-mortem-incident-report/).
 * [Retrospectiva](https://ru.wikipedia.org/wiki/Ретроспектива_в_программировании). El proceso se mejora continuamente y cada miembro del equipo influye en los cambios.
 
