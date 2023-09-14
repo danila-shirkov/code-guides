@@ -26,9 +26,9 @@ Algunos problemas son difíciles o imposibles de influir (desde el nivel del des
     * El mítico hombre-mes, o cómo se crean los sistemas de software
     * El programador ideal. Cómo convertirse en un profesional del desarrollo de software
     * Objetivo. Proceso de mejora continua
-* [Manifiesto para el Desarrollo Ágil de Software](https://bit.ly/2NSBRLp)
-* [Factor Bus](https://en.wikipedia.org/wiki/Bus_factor)
-* [Culto de carga](https://ru.wikipedia.org/wiki/Карго-культ)
+* [Manifiesto por el Desarrollo Ágil de Software](https://agilemanifesto.org/iso/es/manifesto.html)
+* [Bus Factor](https://es.wikipedia.org/wiki/Bus_factor)
+* [Culto cargo](https://es.wikipedia.org/wiki/Culto_cargo)
 
 Y aunque hay muchas prácticas, al final todo se reduce a qué tan rápido los clientes obtienen los resultados de su trabajo y qué tan satisfechos están con ellos. A continuación se muestra una lista de verificación que permite comprender si el equipo utiliza las prácticas de ingeniería que se consideran más exitosas.
 
