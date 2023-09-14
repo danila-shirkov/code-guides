@@ -103,4 +103,4 @@ En GitHub [puedes encontrar](https://github.com/search?q=sicp) muchos repositori
 
 * [Conferencia de los autores del curso con subtítulos en español](https://www.youtube.com/playlist?list=PLc6AqfeLgwzPPK1H3XV1Wfb_CGvT6sXkC)
 
-* [SICP en Amazon](https://www.amazon.com/-/es/Gerald-Sussman-Julie-Harold-Abelson/dp/8173715270)
+* [Descargar libro Estructura e Interpretación de Programas Informáticos - SICP](https://linux.ime.usp.br/~lucasmmg/livecd/documentacao/documentos/sicp.pdf)
