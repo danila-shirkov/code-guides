@@ -22,10 +22,10 @@ Hay muchas razones para esta diferencia catastrófica. Aquí hay algunos de ello
 Algunos problemas son difíciles o imposibles de influir (desde el nivel del desarrollador). Pero otros, especialmente relacionados con las prácticas de ingeniería, deben mejorarse y cambiarse constantemente. Los programadores deben participar activamente en esto.
 
 * [Libros](https://ru.hexlet.io/pages/recommended-books)
-    * Factor humano. Proyectos y equipos exitosos
-    * El mítico hombre-mes, o cómo se crean los sistemas de software
-    * El programador ideal. Cómo convertirse en un profesional del desarrollo de software
-    * Objetivo. Proceso de mejora continua
+    * Peopleware: Proyectos y equipos productivos
+    * El mítico hombre-mes. Ensayos de ingeniería de Software
+    * El limpiador de código. Código de conducta para programadores profesionales
+    * La meta. Un proceso de mejora continua
 * [Manifiesto por el Desarrollo Ágil de Software](https://agilemanifesto.org/iso/es/manifesto.html)
 * [Bus Factor](https://es.wikipedia.org/wiki/Bus_factor)
 * [Culto cargo](https://es.wikipedia.org/wiki/Culto_cargo)
