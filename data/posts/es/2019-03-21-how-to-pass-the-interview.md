@@ -1,12 +1,12 @@
 ---
-title: Cómo pasar una entrevista
+title: Cómo actuar en una entrevista
 subtitle:
-description: En esta guía, analizaremos en detalle el proceso de la entrevista, hablaremos sobre cómo comportarse, qué decir y qué preguntas hacer si te las hacen.
+description: En esta guía, analizaremos en detalle el proceso de la entrevista, hablaremos sobre cómo comportarse, qué decir y qué preguntas hacer si te lo piden
 author: Kirill Mokevnin
 image: "/assets/images/interview/interview.png"
 ---
 
-Para tener éxito en una entrevista, no es suficiente saber algo. Es importante poder demostrar tus conocimientos, habilidades y, en última instancia, causar una buena impresión en quienes te están entrevistando. En esta guía, analizaremos en detalle el proceso de la entrevista, hablaremos sobre cómo comportarse, qué decir y qué preguntas hacer si te las hacen.
+Para tener éxito en una entrevista, no es suficiente saber algo. Es importante poder demostrar tus conocimientos, habilidades y, en última instancia, causar una buena impresión en quienes te están entrevistando. En esta guía, analizaremos en detalle el proceso de la entrevista, hablaremos sobre cómo comportarse, qué decir y qué preguntas hacer si te lo piden.
 
 <Banner name="course-employment" />
 
@@ -14,9 +14,9 @@ La evaluación de ti como candidato comienza incluso antes de que entres a la of
 
 Sé puntual, llama con anticipación, acuerda, discúlpate si es necesario. Las situaciones pueden ser diferentes, nadie está exento de imprevistos. Llama y avisa, así mostrarás tu preocupación por los demás, las personas aprecian eso.
 
-La limpieza también es importante. Se dice que internamente, la simpatía hacia una persona nace durante los primeros 20 segundos de contacto (nota del autor: he rastreado conscientemente la correlación entre la simpatía y el resultado de la entrevista, la correlación es alta, en casos raros la simpatía desaparecía y aún menos veces ocurría lo contrario).
+Tu aspecto también es importante. Se dice que internamente, la simpatía hacia una persona nace durante los primeros 20 segundos de contacto (nota del autor: he rastreado conscientemente la correlación entre la simpatía y el resultado de la entrevista, la correlación es alta, en casos raros la simpatía desaparecía y aún menos veces ocurría lo contrario).
 
-La ropa también es importante, aunque en menor medida. Lo principal es ser apropiado. No es necesario venir en traje con corbata, es probable que no te entiendan. Vístete como lo harías en la vida cotidiana.
+La ropa también es importante, aunque en menor medida. Se trata de encajar. No es necesario venir en traje con corbata, es probable que no te entiendan. Vístete como lo harías en la vida cotidiana.
 
 Y la última recomendación general. A todos les gusta el humor adecuado, relaja el ambiente y te hace agradable. Mientras entras a la oficina, esperas, saludas y pasas a la sala de reuniones, puedes intercambiar algunas palabras y hacerles saber que eres una persona abierta.
 
@@ -42,10 +42,10 @@ La mayoría de las preguntas abiertas se hacen no con el objetivo de obtener una
     entrevistador (e): ¿Cómo se puede invertir una cadena en el lenguaje X?
     entrevistado (en): ¿Se puede usar la biblioteca estándar?
     e: Supongamos que sí.
-    en: Entonces usaría la función incorporada reverse.
+    en: Entonces usaría la función incorporada reverse
     e: Bien, ¿y si se requiere implementar la inversión por sí mismo?
     en: ¿Es importante la eficiencia de la solución o, sobre todo, la simplicidad y comprensión?
-    e: Propón cualquier solución.
+    e: Propón cualquier solución
     en: Dado que lo más importante es la legibilidad, dividiría la cadena en una matriz de caracteres y luego uniría esa matriz en una cadena en orden inverso.
     ```
 
@@ -71,8 +71,4 @@ Esta es una práctica avanzada que puede cambiar la decisión sobre tu contratac
 
 ## Conclusión
 
-Incluso si no pasas la entrevista, no pasa nada grave. Has adquirido una experiencia colosal, has descubierto tus puntos débiles. La próxima vez será mucho más fácil y claro. Además, si mostraste conocimientos insuficientes pero te gustaste como persona, es posible que te vuelvan a llamar para otra entrevista. Por lo general, en las empresas hay una regla de que llamamos al candidato nuevamente en 3-6 meses. Asegúrate de aclarar esta información con ellos y prepárate para un nuevo encuentro.
-
-## Enlaces adicionales
-
-* [Webinar: Entrevistas. Una mirada desde el punto de vista del empleador](https://www.youtube.com/watch?v=M4WW8-9GwRA)
+Incluso si no pasas la entrevista, no es nada grave. Has adquirido una experiencia colosal, has descubierto tus puntos débiles. La próxima vez será mucho más fácil y claro. Además, si mostraste conocimientos insuficientes pero te gustaste como persona, es posible que te vuelvan a llamar para otra entrevista. Por lo general, en las empresas hay una regla de que llamamos al candidato nuevamente en 3-6 meses. Asegúrate de aclarar esta información con ellos y prepárate para un nuevo encuentro.
