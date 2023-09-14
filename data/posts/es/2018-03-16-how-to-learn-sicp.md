@@ -103,6 +103,6 @@ En GitHub [puedes encontrar](https://github.com/search?q=sicp) muchos repositori
 
 * [Servicio para rastrear el progreso de estudio del libro](https://sicp.hexlet.io/)
 
-* [Conferencias de los autores del curso traducidas al ruso](https://www.youtube.com/playlist?list=PLc6AqfeLgwzPPK1H3XV1Wfb_CGvT6sXkC)
+* [Conferencia de los autores del curso con subtítulos en español](https://www.youtube.com/playlist?list=PLc6AqfeLgwzPPK1H3XV1Wfb_CGvT6sXkC)
 
-* [SICP en Ozon](https://www.ozon.ru/product/struktura-i-interpretatsiya-kompyuternyh-programm-5322055/?partner=hexlet&sh=CjnOUmRR)
+* [SICP en Amazon](https://www.amazon.com/-/es/Gerald-Sussman-Julie-Harold-Abelson/dp/8173715270)
