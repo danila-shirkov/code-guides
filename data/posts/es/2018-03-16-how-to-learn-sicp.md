@@ -99,8 +99,6 @@ En GitHub [puedes encontrar](https://github.com/search?q=sicp) muchos repositori
 
 ## Enlaces adicionales
 
-* [Curso: Estructura e Interpretación de Programas de Computadora (SICP en ruso)](https://www.youtube.com/watch?v=bFMbqKRjU84&list=PLo6puixMwuSO8eB2uBH5lZy5kjNtdhTfT)
-
 * [Servicio para rastrear el progreso de estudio del libro](https://sicp.hexlet.io/)
 
 * [Conferencia de los autores del curso con subtítulos en español](https://www.youtube.com/playlist?list=PLc6AqfeLgwzPPK1H3XV1Wfb_CGvT6sXkC)
