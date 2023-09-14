@@ -100,7 +100,7 @@ _Cumplir con estas prácticas no garantiza que no haya problemas en la empresa. 
 * Los desarrolladores siguen los principios de [12 factores](https://habr.com/post/258739/). Las aplicaciones son más fáciles de implementar, escalar y monitorear.
 * Ejecutar una prueba individual toma fracciones de segundo. El desarrollo a través de pruebas implica una ejecución de pruebas muy frecuente durante el proceso de depuración. En tal situación, es muy importante que el inicio de una prueba específica sea lo suficientemente rápido como para que el desarrollador permanezca en contexto.
 * Es fácil y agradable escribir pruebas. Esta es una prueba de fuego para determinar qué tan bien están las pruebas en el proyecto. Si tienes que obligarte a escribir pruebas, es probable que las pruebas estén escritas de manera deficiente (por ejemplo, con muchas simulaciones) y no sean suficientes.
-* [Desarrollo guiado por pruebas (TDD)](https://ru.wikipedia.org/wiki/TDD). Si es posible, las pruebas se escriben antes del código. Hay varias razones por las que esto es importante:
+* [Desarrollo guiado por pruebas (TDD)](https://es.wikipedia.org/wiki/Desarrollo_guiado_por_pruebas). Si es posible, las pruebas se escriben antes del código. Hay varias razones por las que esto es importante:
 
     Las pruebas hacen que uno piense no en la implementación, sino en cómo se usará el código probado. Gracias a este enfoque, los programadores ven fallas en las interfaces en las primeras etapas.
 
@@ -116,9 +116,8 @@ _Cumplir con estas prácticas no garantiza que no haya problemas en la empresa. 
 
 **Enlaces**
 
-* [12 factores](https://12factor.net/ru/)
+* [12 factores](https://12factor.net/es/)
 * [Comenzando a escribir pruebas (correctamente)](https://ru.hexlet.io/blog/posts/how-to-test-code)
-* [Pruebas frugales](https://www.youtube.com/watch?v=zsz8kdi62mE)
 
 ## Lanzamiento de nuevas versiones (más relevante para proyectos web)
 
@@ -145,7 +144,7 @@ La implementación (lanzamiento) es el proceso mediante el cual se actualiza el 
 
 **Enlaces**
 
-* [¿Qué es DevOps?](https://ru.atlassian.com/devops)
+* [¿Qué es DevOps?](https://www.atlassian.com/es/devops)
 * [Ingeniería en Booking.com](https://bronevichok.ru/blog/2015/04/26/engineering-at-booking.com.html)
 * [Entornos de desarrollo. ¡Chicos, implementen!](https://ru.hexlet.io/blog/posts/environment)
 * [Webinar: ¿Cómo difundir la cultura de ingeniería en su empresa?](https://www.youtube.com/watch?v=mOfiWrTW9dA)
