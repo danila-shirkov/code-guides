@@ -147,4 +147,3 @@ La implementación (lanzamiento) es el proceso mediante el cual se actualiza el 
 * [¿Qué es DevOps?](https://www.atlassian.com/es/devops)
 * [Ingeniería en Booking.com](https://bronevichok.ru/blog/2015/04/26/engineering-at-booking.com.html)
 * [Entornos de desarrollo. ¡Chicos, implementen!](https://ru.hexlet.io/blog/posts/environment)
-* [Webinar: ¿Cómo difundir la cultura de ingeniería en su empresa?](https://www.youtube.com/watch?v=mOfiWrTW9dA)
