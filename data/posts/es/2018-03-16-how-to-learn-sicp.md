@@ -65,7 +65,7 @@ SICP es un libro sobre ciencias de la computación. Trata sobre la percepción d
 1. Multitarea
 1. Hilos
 
-### Abstracciones de metalinguaje
+### Abstracciones de metalingüisticas
 
 ...
 
