@@ -40,7 +40,7 @@ Actualmente, este tipo de virtualización solo existe en Linux y está disponibl
 
 Cada máquina virtual recibirá los recursos que especifiques. Esto es especialmente útil para los proveedores de alojamiento (empresas que ofrecen servicios de alojamiento web). Básicamente, se crea una máquina virtual separada para cada usuario con cuotas que corresponden al plan seleccionado (limitaciones de memoria, procesador, etc.).
 
-Además, la virtualización aísla las máquinas unas de otras, por lo que no tendrás que preocuparte si los usuarios intentan dañar el sistema o a otros usuarios. Este servicio generalmente se llama VPS (servidor virtual privado) y es bastante económico en su configuración básica.
+Además, la virtualización aísla las máquinas unas de otras, por lo que no tendrás que preocuparte si los usuarios intentan dañar el sistema o a otros usuarios. Este servicio generalmente se llama VPS (virtual private server) y es bastante económico en su configuración básica.
 
 Las máquinas virtuales permiten utilizar de manera más eficiente los recursos de una máquina física. Por lo general, no todos los usuarios necesitan la potencia del hardware que tiene el proveedor de alojamiento, y no están dispuestos a pagar por ella. Sin embargo, una máquina virtual solo utiliza una fracción de la potencia del hardware, lo que permite alojar a decenas de clientes (o incluso más) en una sola máquina. Esto beneficia tanto al usuario como al proveedor de alojamiento.
 
@@ -52,5 +52,5 @@ Esto es muy poco probable, pero incluso en ese caso, aún puedes ejecutar una m�
 
 ## Otros tutoriales relacionados
 
-1. [¿Qué es Vagrant?](/vagrant/). Vagrant te permite crear y configurar entornos de desarrollo livianos, reproducibles y portátiles en máquinas virtuales.
+1. [¿Qué es Vagrant?](https://www.vagrantup.com). Vagrant te permite crear y configurar entornos de desarrollo livianos, reproducibles y portátiles en máquinas virtuales.
 2. [Cómo trabajar con Linux utilizando Windows](/ubuntu-linux-in-windows/). Instrucciones para instalar Ubuntu Linux dentro de Windows utilizando diferentes tecnologías de virtualización.
