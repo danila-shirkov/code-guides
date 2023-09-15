@@ -6,11 +6,11 @@ image: "/assets/images/be-helpful/volunteer.png"
 author: Kirill Mokevnin
 ---
 
-Hexlet no es solo una escuela de programación. Es una gran y [amigable comunidad](https://t.me/hexletcommunity/)en la que participan más de 30,000 miembros. Conocemos a muchos de ellos personalmente, nos encontramos, vamos a escalar y desarrollamos proyectos abiertos juntos.
+Hexlet no es solo una escuela de programación. Es una gran y [amigable comunidad](https://t.me/hexletcommunity/) en la que participan más de 30,000 miembros. Conocemos a muchos de ellos personalmente, nos encontramos, vamos a escalar y desarrollamos proyectos abiertos juntos.
 
 <Banner name="course-git" />
 
-Los chicos más activos a menudo preguntan cómo pueden participar en la vida del proyecto, beneficiar a la comunidad y a aquellos que están aprendiendo. Y se puede hacer mucho. A continuación se muestra una lista completa de actividades que necesitan manos y mentes. Si algo te gusta, escríbenos en el canal de Voluntarios en [la comunidad de Hexlet](https://t.me/hexletcommunity/12) o en el issue que te interese en el proyecto en GitHub.
+La gente más activa a menudo pregunta cómo puede participar en la vida del proyecto, beneficiar a la comunidad y a aquellos que están aprendiendo. Y se puede hacer mucho. A continuación se muestra una lista completa de actividades que necesitan manos y mentes. Si algo te gusta, escríbenos en el canal de Voluntarios en [la comunidad de Hexlet](https://t.me/hexletcommunity/12) o en el issue que te interese en el proyecto en GitHub.
 
 ## Proyectos abiertos (Github)
 
