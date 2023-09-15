@@ -49,7 +49,7 @@ Tareas:
 
 ### Code Basics
 
-[Code Basics](https://ru.code-basics.com/) es un proyecto secundario de Hexlet con código abierto. Tanto el código del sitio como el contenido están disponibles. Su objetivo es proporcionar los fundamentos de los lenguajes de programación con práctica directamente en el navegador. El sitio es completamente gratuito y siempre lo será. En el futuro, se planea una versión en inglés. Ya existe, pero el contenido solo está traducido parcialmente.
+[Code Basics](https://code-basics.com) es un proyecto secundario de Hexlet con código abierto. Tanto el código del sitio como el contenido están disponibles. Su objetivo es proporcionar los fundamentos de los lenguajes de programación con práctica directamente en el navegador. El sitio es completamente gratuito y siempre lo será. En el futuro, la versión en inglesa será más desarrollada.
 
 Al crear el sitio, queríamos cubrir dos situaciones: el primer idioma y el segundo idioma.
 
