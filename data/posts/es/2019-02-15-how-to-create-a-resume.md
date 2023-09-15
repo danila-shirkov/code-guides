@@ -104,7 +104,7 @@ Segundo ejemplo:
 
     Logros:
 
-    Convertí el sitio web lala.ru a flexbox
+    Convertí el sitio web lala.es a flexbox
     Implementé la inserción automática de prefijos con autoprefixer
 
 Los logros llaman la atención y dicen mucho más sobre ti que el nombre de la empresa y los años de trabajo en ella.
