@@ -16,7 +16,7 @@ Antes de empezar, recuerde: la búsqueda de trabajo no se limita a la creación 
 
 <Banner name="course-employment" />
 
-Para los puestos iniciales, se buscan principalmente personas prometedoras. Aquellas que tienen una actitud activa hacia la vida (busque "autor y víctima"), capaces de aprender por sí mismas y resolver problemas, pero que no se aíslan. Idealmente, aquellos que han recibido educación especializada. En términos técnicos, es más importante tener un buen conocimiento de los fundamentos (que se enumeran a continuación) y habilidades prácticas básicas.
+Para los puestos iniciales, se buscan principalmente personas prometedoras. Aquellos que tienen una actitud activa hacia la vida (buscando ser 'el autor' en lugar de 'la víctima'), capaces de aprender y resolver problemas de forma independiente, pero que no se aíslan. Idealmente, aquellos que han recibido educación especializada. En términos técnicos, es más importante tener un buen conocimiento de los fundamentos (que se enumeran a continuación) y habilidades prácticas básicas.
 
 Cuanto más fuerte sea la empresa que te está considerando, más le interesará tu formación fundamental y menos la aplicada. En estas empresas se utilizan diversas tecnologías, que también cambian. Esto significa que es más importante ser capaz de aprender rápidamente y adaptarse a lo nuevo que tener conocimientos profundos pero estrechos.
 
