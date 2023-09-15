@@ -1,12 +1,12 @@
 ---
 title: Cómo participar en la vida de Hexlet
 subtitle:
-description: Cómo unirse al trabajo en proyectos de código abierto, ayudar en el desarrollo de los sitios web de Hexlet y obtener experiencia valiosa
+description: Cómo unirse al trabajo en proyectos de Open Source, ayudar en el desarrollo de los sitios web de Hexlet y obtener experiencia valiosa
 image: "/assets/images/be-helpful/volunteer.png"
 author: Kirill Mokevnin
 ---
 
-Hexlet no es solo una escuela de programación. Es una gran y amigable comunidad en la que participan más de 30,000 miembros. Conocemos a muchos de ellos personalmente, nos encontramos, vamos a escalar y desarrollamos proyectos abiertos juntos.
+Hexlet no es solo una escuela de programación. Es una gran y [amigable comunidad](https://t.me/hexletcommunity/)en la que participan más de 30,000 miembros. Conocemos a muchos de ellos personalmente, nos encontramos, vamos a escalar y desarrollamos proyectos abiertos juntos.
 
 <Banner name="course-git" />
 
