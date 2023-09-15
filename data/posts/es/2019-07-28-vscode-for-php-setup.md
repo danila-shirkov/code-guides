@@ -19,11 +19,11 @@ _Así es como puede verse la interfaz del editor después de instalar las extens
 - Herramientas convenientes para trabajar con Git
 - Resaltado de sintaxis para muchos lenguajes populares y formatos de archivo
 - Navegación conveniente
-- Vista previa integrada de [Markdown](/markdown/)
+- Vista previa integrada de [Markdown](https://markdown.es/)
 - Autocompletado inteligente
 - Administrador de paquetes integrado
 
-VS Code tiene una gran cantidad de extensiones para desarrolladores. Para instalar un nuevo paquete, vaya a la pestaña "Extensions", escriba el nombre del paquete en la barra de búsqueda y haga clic en "Install".
+VS Code tiene una gran cantidad de extensiones para desarrolladores. Para instalar un nuevo paquete, accede a la pestaña "Extensions", escribe el nombre del paquete en la barra de búsqueda y haz clic en "Install".
 
 ![extension list](/assets/images/vscode-for-php-setup/recommended_extensions.png)
 
@@ -104,7 +104,7 @@ xdebug.idekey=code
 xdebug.remote_autostart=1
 ```
 
-Estas son configuraciones para el desarrollo local, cuando el proyecto se desarrolla y se ejecuta en la misma computadora, por ejemplo, en su máquina de trabajo.
+Estas son configuraciones para el desarrollo local, cuando el proyecto se desarrolla y se ejecuta en la misma computadora, por ejemplo, en tu máquina de trabajo.
 
 ![debug vscode](/assets/images/vscode-for-php-setup/xdebug2.gif)
 
@@ -118,14 +118,14 @@ En los lenguajes de programación, existe el concepto de _estilo de codificació
 
 En PHP, se utiliza [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer#composer) como linter. Para que funcione, es necesario instalar el linter globalmente con `composer global require "squizlabs/php_codesniffer=*"` y la extensión [PHP Sniffer](https://marketplace.visualstudio.com/items?itemName=wongjn.php-sniffer).
 
-Verifique que el linter se haya instalado correctamente:
+Verifica que el linter se haya instalado correctamente:
 
 ```shell
 $ phpcs --version
 PHP_CodeSniffer version 3.4.2 (stable) by Squiz (https://www.squiz.net)
 ```
 
-Puede ejecutar la verificación del código en la terminal utilizando el comando `phpcs`, especificando explícitamente el estándar que desea utilizar y la ruta a verificar:
+Puedes ejecutar la verificación del código en la terminal utilizando el comando `phpcs`, especificando explícitamente el estándar que desea utilizar y la ruta a verificar:
 
 ```shell
 $ phpcs --standard=PSR12 <dirname>
@@ -139,7 +139,7 @@ $ phpcs --standard=PSR12 <dirname>
 ## Semicolon Insertion Shortcut
 
 PHP requiere que las instrucciones se separen con punto y coma. La extensión [Semicolon Insertion Shortcut](https://marketplace.visualstudio.com/items?itemName=chrisvltn.vs-code-semicolon-insertion) agrega el símbolo necesario al final de la línea con un atajo.
-Si al presionar `[Ctrl] + ;` el símbolo no se inserta, verifique la lista de atajos de teclado y, si es necesario, asigne manualmente la combinación: `File -> Preferences -> Keyboard Shortcuts`
+Si al presionar `[Ctrl] + ;` el símbolo no se inserta, verifica la lista de atajos de teclado y, si es necesario, asigna manualmente la combinación: `File -> Preferences -> Keyboard Shortcuts`
 
 ![semicolon-shortcut](/assets/images/vscode-for-php-setup/semicolon.png)
 
@@ -153,11 +153,11 @@ Aquí hay una lista de extensiones que se pueden utilizar no solo para PHP:
 
 ![gitlens](/assets/images/vscode-for-php-setup/current-line-blame.png)
 
-- [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) — colorea las sangrías en el código. Resalta las sangrías incorrectas. Puede cambiar el arco iris por tonos de gris.
+- [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) — colorea las sangrías en el código. Resalta las sangrías incorrectas. Puedes cambiar el arco iris por tonos de gris.
 
 ![rainbow](/assets/images/vscode-for-php-setup/intend-rainbow.png)
 
-- [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) — un complemento que permite sincronizar la configuración del editor entre diferentes computadoras. Utiliza Github Gists como almacenamiento en la nube. Puede descargar todas las configuraciones especificando el archivo de sincronización deseado.
+- [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) — un complemento que permite sincronizar la configuración del editor entre diferentes computadoras. Utiliza Github Gists como almacenamiento en la nube. Puedes descargar todas las configuraciones especificando el archivo de sincronización deseado.
 
 - [Fira Code](https://github.com/tonsky/FiraCode) — una fuente monoespaciada que utiliza ligaduras (combina varios caracteres en uno) para combinaciones de caracteres comunes en programación. Una mejora visual para una lectura de código más cómoda.
 
