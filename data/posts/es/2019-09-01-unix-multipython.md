@@ -53,7 +53,7 @@ Además, los paquetes en PPA populares se actualizan oportunamente, lo cual no s
 
 #### Alias `python`, `python2`, `python3`.
 
-Históricamente, el intérprete de Python se ejecuta con el comando `python`. Pero en algún momento apareció Python3, la incompatibilidad hacia atrás, el "caos y la confusión". Para agregar cierta claridad, se presentó [PEP-394](https://www.python.org/dev/peps/pep-0394): *The "python" Command on Unix-Like Systems*. Sin embargo, incluso este PEP permite a los sistemas *elegir por sí mismos* si usar Py2 y Py3 juntos o elegir solo uno. Los sistemas solo deben asegurarse de que
+Históricamente, el intérprete de Python se ejecuta con el comando `python`. Pero en algún momento apareció Python3, con incompatibilidad hacia atrás, lo que causó cierto "caos y confusión". Para agregar cierta claridad, se presentó [PEP-394](https://www.python.org/dev/peps/pep-0394): *The "python" Command on Unix-Like Systems*. Sin embargo, incluso este PEP permite a los sistemas *elegir por sí mismos* si usar Py2 y Py3 juntos o elegir solo uno. Los sistemas solo deben asegurarse de que
 
 - el comando `python2` llame a una versión de Python 2.x, si está disponible;
 - el comando `python3` llame a una versión de Python 3.x, si está disponible;
