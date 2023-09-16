@@ -76,7 +76,7 @@ El PEP mencionado anteriormente sugiere
 
 En el momento de escribir este artículo, poetry (una herramienta que administra entornos virtuales, gestiona paquetes, etc., una "navaja suiza" para desarrolladores de Python) tenía problemas con las versiones del tiempo de ejecución: al instalarlo de la forma recomendada, el script de instalación fallaba o la instalación tenía éxito pero el programa no funcionaba.
 
-El problema (¿se solucionó?) era que tanto en el script de instalación como en los puntos de entrada del programa, se usaba `python` en el shebang. El programa en sí funciona tanto en Py2 como en Py3, pero los autores asumieron que en el sistema de destino siempre habría un alias `python` que llamaría a uno u otro intérprete. ¡En algunos sistemas, este comando no existe&#x2026;
+El problema era que tanto en el script de instalación como en los puntos de entrada del programa, se usaba `python` en el shebang. El programa en sí funciona tanto en Py2 como en Py3, pero los autores asumieron que en el sistema de destino siempre habría un alias `python` que llamaría a uno u otro intérprete. En algunos sistemas, este comando no existe&#x2026;
 
 Si utilizas pyenv, siempre proporcionará el comando `python` y poetry "simplemente funcionará". No hay problemas incluso en distribuciones antiguas donde Py2 aún no se ha eliminado por completo. Y, por supuesto, todo funciona en un entorno virtual. Veamos este enfoque con más detalle.
 
