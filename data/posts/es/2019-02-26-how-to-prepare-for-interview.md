@@ -1,7 +1,7 @@
 ---
 title: Cómo se lleva a cabo una entrevista para programadores, qué preguntan
 subtitle:
-description: ¿Qué información sobre ti debes preparar, qué respuestas a qué preguntas debes pensar para pasar con éxito una entrevista?
+description: ¿Qué información personal debes preparar, qué respuestas a qué preguntas debes pensar para pasar con éxito una entrevista?
 image: "/assets/images/interview/interview.png"
 author: Kirill Mokevnin
 ---
@@ -20,7 +20,7 @@ El proceso de entrevista depende de tu experiencia previa. Si puedes hablar sobr
 
 ## Temas clave
 
-### Sobre ti. Experiencia pasada.
+### Sobre ti. Experiencia anterior.
 
 Por lo general, la entrevista comienza con una presentación. En esta etapa, te observan, evalúan tu adecuación general y buscan puntos de conexión para una conversación posterior. Idealmente, debes tener proyectos reales en tu haber en los que hayas participado. También son adecuados los proyectos educativos cuyo código está en GitHub.
 
@@ -38,7 +38,7 @@ Recomendaciones
 
 * Crea varios proyectos en GitHub.
 * Responde las preguntas descritas anteriormente para ti mismo.
-* Familiarízate con las ideas de [programación extrema](https://es.wikipedia.org/wiki/Programaci%C3%B3n_extrema).
+* Familiarízate con las ideas de [programación extrema](https://es.wikipedia.org/wiki/Programación_extrema).
 
 Enlaces
 
