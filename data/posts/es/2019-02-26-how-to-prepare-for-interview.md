@@ -42,9 +42,9 @@ Recomendaciones
 
 Enlaces
 
-* [Libros que todo programador debería leer](https://es.hexlet.io/pages/recommended-books)
+* [Libros que todo programador debería leer](https://hexlet.io/pages/recommended-books)
 * [Lista de tareas de prueba de diferentes empresas](https://github.com/Hexlet/ru-test-assignments)
-* [Proyectos de Hexlet](https://es.hexlet.io/projects)
+* [Proyectos de Hexlet](https://hexlet.io/projects)
 
 ### Problemas
 
