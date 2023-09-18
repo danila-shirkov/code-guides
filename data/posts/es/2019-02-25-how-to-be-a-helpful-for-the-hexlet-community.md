@@ -180,19 +180,6 @@ Tareas:
 * Agregar nuevos cursos
 * Actualizar información obsoleta
 
-### Guía de REST API
-
-[restapitutorial.ru/](https://restapitutorial.ru/) es la traducción al ruso de la [guía original](https://restapitutorial.com/) de REST API.
-
-Enlaces:
-
-* [Código fuente](https://github.com/Hexlet/RestApiTutorial.ru)
-
-Tareas:
-
-* Corregir errores tipográficos
-* Mejorar la apariencia
-
 ### React flowbot ui kit
 
 [react-flowbot-ui-kit](https://github.com/Hexlet/react-flowbot-ui-kit) es un kit de interfaz de usuario para crear un chatbot. Funciona como un widget que se puede incrustar en una página. Los usuarios interactúan con el bot haciendo clic en botones en el chat y reciben respuestas. Los estados del bot se describen en formato YAML como una máquina de estados finitos. Está inspirado en [react-chatbot-kit](https://github.com/FredrikOseberg/react-chatbot-kit).
@@ -251,7 +238,7 @@ Tareas:
 
 ### Blog
 
-[Blog](https://ru.hexlet.io/blog) - Cada mes, decenas de miles de personas visitan el blog de Hexlet. Publicamos tanto artículos traducidos que nos gustan como nuestros propios artículos. A veces, los usuarios también dejan sus publicaciones.
+[Blog](https://hexlet.io/blog) - Cada mes, decenas de miles de personas visitan el blog de Hexlet. Publicamos tanto artículos traducidos que nos gustan como nuestros propios artículos. A veces, los usuarios también dejan sus publicaciones.
 
 Cualquier usuario puede escribir en el blog. Hay tres categorías de publicaciones que se pueden agregar:
 
@@ -275,7 +262,7 @@ La lista de temas no es exhaustiva.
 
 Enlaces:
 
-* [Escribir en el blog](https://ru.hexlet.io/my/blog_posts/myself)
+* [Escribir en el blog](https://hexlet.io/my/blog_posts/myself)
 
 Tarea:
 
@@ -289,7 +276,7 @@ Siempre faltan desafíos. En algunos cursos hay muy pocos o ninguno. De vez en c
 
 Enlaces:
 
-* [Lista de todos los desafíos](https://ru.hexlet.io/challenges)
+* [Lista de todos los desafíos](https://hexlet.io/challenges)
 
 Tareas:
 
@@ -297,7 +284,7 @@ Tareas:
 
 ### Reseñas
 
-¿Has completado cursos o proyectos y tienes algo que compartir? Envía tu reseña a support@hexlet.io y la agregaremos a la página de [reseñas](https://ru.hexlet.io/testimonials)
+¿Has completado cursos o proyectos y tienes algo que compartir? Envía tu reseña a support@hexlet.io y la agregaremos a la página de [reseñas](https://hexlet.io/testimonials)
 
 ## Youtube
 
@@ -306,11 +293,6 @@ Tareas:
 A lo largo de los años, hemos realizado docenas de webinars sobre diversos temas. Este formato siempre ha sido y sigue siendo popular. Últimamente hemos comenzado a experimentar, invitando a personas que no están directamente relacionadas con la programación o invitando a aquellos que pueden y quieren realizar webinars por sí mismos.
 
 Si quieres compartir algún tema con nuestra audiencia, avísanos y te daremos un espacio. Si estás dispuesto a presentar un webinar como anfitrión y comunicarte con otros invitados, también eres bienvenido.
-
-Enlaces:
-
-* [Entrevista con Roman Pavlushko: el aspecto técnico del proyecto](https://www.youtube.com/watch?v=8wurHiUJwUA)
-* [¿Es importante la edad en TI? ¿Es necesario leer libros? ¿Qué deben hacer los estudiantes? Entrevista con A. Byndyu](https://www.youtube.com/watch?v=jI-cZRFpbkk)
 
 Tareas:
 
@@ -321,11 +303,6 @@ Tareas:
 
 En 2016, probamos un nuevo formato: entrevistas públicas. El tema atrajo a muchas personas. Las entrevistas se discuten mucho y tienen más visitas que los webinars. Las entrevistas brindan una visión general de cómo funcionan las cosas en la realidad y ayudan a identificar las debilidades.
 La principal dificultad para realizar estas entrevistas es encontrar personas que las realicen.
-
-Enlaces:
-
-* [Entrevista pública #3: Daniar Supiev](https://www.youtube.com/watch?v=QirXa-T8C2k)
-* [Entrevista pública: Demid Kashirin, JS Backend](https://www.youtube.com/watch?v=HM42MlWbhFI)
 
 Tareas:
 
@@ -347,14 +324,10 @@ Tareas:
 
 ## Chat de la comunidad
 
-En el [chat](https://t.me/hexletcommunity/) se pueden llevar a cabo discusiones sobre temas relevantes para los miembros. [Ejemplo de archivo de Slack](https://github.com/Hexlet/hexlet-slack-archive/wiki/%5B2019-08-05%5D-Слаконар-с-HR-экспертом.-Разбираем-резюме-студентов-Hexlet).
+En el [chat](https://t.me/hexletcommunity/) se pueden llevar a cabo discusiones sobre temas relevantes para los miembros.
 
 ## Tu ciudad
 
 Hace mucho tiempo que tenemos el sueño de organizar reuniones regulares fuera de línea de la comunidad. Actualmente, principalmente se llevan a cabo en Moscú o San Petersburgo. Allí ya se ha formado su propio grupo. En las últimas reuniones en Moscú, asistieron tantas personas que ya no cabíamos en los bares y comenzamos a organizarlas en las oficinas de las empresas.
 
 Ha llegado el momento de expandir la geografía. Si quieres conocer a personas apasionadas como tú, ahora es posible. Escríbenos y juntos organizaremos un meetup en tu ciudad. Nos encargaremos de la promoción, la búsqueda de un lugar y la coordinación general.
-
-Enlaces:
-
-* [Webinar sobre la comunidad](https://www.youtube.com/watch?v=JhLahHbh-dE)
