@@ -66,8 +66,8 @@ Las grandes empresas han abandonado estas preguntas, pero nadie está a salvo. S
 
 Recomendaciones
 
-* Lee el libro "Cómo mover el monte Fuji".
-* Encuentra listas de preguntas similares y trata de responderlas.
+* Lee el libro "Cómo mover el monte Fuji"
+* Encuentra listas de preguntas similares y trata de responderlas
 
 Enlaces
 
@@ -79,7 +79,7 @@ Este es otro tipo de problemas. Tienen respuestas bastante concretas y se basan 
 
 * ¿Cuántas veces al día se cruzan las manecillas del reloj?
 * ¿Qué ángulo hay entre la manecilla de las horas y la manecilla de los minutos si el reloj marca las 15:15?
-* MegaBrain tiene dos bolas de vidrio idénticas. ¿Cuántos lanzamientos como mínimo se necesitan para determinar a partir de qué piso del edificio de 100 pisos las bolas se rompen?
+* Megamente tiene dos bolas de vidrio idénticas. ¿Cuántos lanzamientos como mínimo se necesitan para determinar a partir de qué piso del edificio de 100 pisos las bolas se rompen?
 
 El último problema es muy fuerte y se plantea con frecuencia. Aunque parece caricaturesco, es una gran tarea algorítmica en su interior.
 
@@ -91,7 +91,7 @@ Recomendaciones
 
 Enlaces
 
-* [braingames](https://www.braingames.ru/) - un sitio y una comunidad para resolver este tipo de problemas.
+* [braingames](https://www.mindgames.com/Brain+Games) - un sitio y una comunidad para resolver este tipo de problemas.
 
 #### Algoritmos y estructuras de datos
 
