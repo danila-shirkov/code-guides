@@ -8,7 +8,7 @@ author: Kirill Mokevnin
 
 Los sitios web no solo son código, sino también infraestructura para su ejecución. En primer lugar, esto incluye servidores en los que se ejecuta el código, una base de datos y varios sistemas auxiliares. A veces, todo esto se coloca en un solo servidor, en situaciones más complejas, la cantidad de servidores se mide en miles, y se involucran equipos enteros de ingenieros (administradores de diferentes tipos). Independientemente del tamaño del sitio, los problemas de mantenimiento de la infraestructura son muy similares para todos. Hablemos de uno en particular: la configuración del servidor.
 
-*Existen enfoques que permiten evitar la interacción directa con la infraestructura. No se consideran en este artículo, pero es útil conocerlos. Estos incluyen: alojamiento clásico con software preinstalado, sin servidor, alojamiento de sitios estáticos, soluciones PaaS y Kubernetes (y sus análogos)*
+*Existen enfoques que permiten evitar la interacción directa con la infraestructura. No se consideran en este artículo, pero es útil conocerlos. Estos incluyen: alojamiento clásico con software preinstalado, servless, alojamiento de sitios estáticos, soluciones PaaS y Kubernetes (y sus análogos)*
 
 <Banner name="intensive-devops" />
 
