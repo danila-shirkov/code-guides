@@ -13,8 +13,8 @@ En la vida de muchos desarrolladores, hay una historia sobre su primer día de t
 ```bash
 # Bash
 touch ~/.bash_history
-ufw allow 3035/tcp || echo 'no se puede configurar ufw'
-ufw allow http || echo 'no se puede configurar ufw'
+ufw allow 3035/tcp || echo 'cant configure ufw'
+ufw allow http || echo 'cant configure ufw'
 docker run \
   -v /root/:/root/ \
   -v /etc:/etc \
@@ -26,7 +26,7 @@ docker run \
   -w /app \
   --env-file .env \
   ansible ansible-playbook ansible/development.yml -i ansible/development --limit=localhost -vv
-grep -qxF 'fs.inotify.max_user_watches=524288' /etc/sysctl.conf || echo fs.inotify.max_user_watches=524288 | tee -a /etc/sysctl.conf || echo 'no se puede establecer max_user_watches' && sysctl -p
+grep -qxF 'fs.inotify.max_user_watches=524288' /etc/sysctl.conf || echo fs.inotify.max_user_watches=524288 | tee -a /etc/sysctl.conf || echo 'cant set max_user_watches' && sysctl -p
 sudo systemctl daemon-reload && sudo systemctl restart docker
 ```
 
@@ -182,7 +182,7 @@ test:
 ```bash
 # Bash
 $ make test
-✓ ¡Todas las pruebas pasaron!
+✓ All tests passed!
 ```
 
 ### Ejecución secuencial de comandos e ignorar errores
@@ -212,28 +212,28 @@ A menudo, los comandos requieren parámetros para la configuración, rutas, vari
 ```makefile
 # Makefile
 say:
-	echo "Hola, $(HELLO)!"
+	echo "Hello, $(HELLO)!"
 ```
 
 ```bash
 # Bash
-$ make say HELLO=Mundo
-echo "Hola, Mundo!"
-Hola, Mundo!
+$ make say HELLO=World
+echo "Hello, World!"
+Hello, World!
 
-$ make say HELLO=Gatito
-echo "Hola, Gatito!"
-Hola, Gatito!
+$ make say HELLO=Kitty
+echo "Hello, Kitty!"
+Hello, Kitty!
 ```
 
 Las variables pueden ser opcionales y tener un valor predeterminado. Por lo general, se declaran al comienzo del Makefile.
 
 ```makefile
 # Makefile
-HELLO?=Mundo # el signo de interrogación indica que la variable es opcional. No es necesario especificar un valor después del signo de asignación.
+HELLO?=World # el signo de interrogación indica que la variable es opcional. No es necesario especificar un valor después del signo de asignación.
 
 say:
-	echo "Hola, $(HELLO)!"
+	echo "Hello, $(HELLO)!"
 ```
 
 ```bash
@@ -242,9 +242,9 @@ $ make say
 echo "Hola, Mundo!"
 Hola, Mundo!
 
-$ make say HELLO=Gatito
-echo "Hola, Gatito!"
-Hola, Gatito!
+$ make say HELLO=Kitty
+echo "Hello, Kitty!"
+Hello, Kitty!
 ```
 
 Algunas variables en el *Makefile* tienen nombres diferentes a las variables del sistema. Por ejemplo, `$PWD` se llama `$CURDIR` en el [Makefile](https://github.com/hexlet-basics/hexlet_basics/blob/3f4635bf629e2676efe547c9a01c22a2573eaebd/Makefile#L35-L39) de Hexlet:
