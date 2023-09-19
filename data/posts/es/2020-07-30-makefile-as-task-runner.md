@@ -269,7 +269,7 @@ La capacidad de describir comandos de varias líneas en el Makefile permite util
 
 ### Recursos adicionales
 
-* [Makefile Tutorial](https://makefile.site/) - extracto de la documentación.
+* [Makefile Tutorial](https://makefile.site/) — extracto de la documentación.
 
 Makefiles used in this guide:
 
