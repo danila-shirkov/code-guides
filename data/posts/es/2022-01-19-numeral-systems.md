@@ -170,18 +170,6 @@ A partir de los residuos 1, 1, 0, 1 y 0, se forma la representación binaria des
 
 ![11010](/assets/images/numeral-systems/example25.png)
 
-Los números binarios se pueden convertir en decimales y viceversa utilizando el mismo enfoque. Para convertir un número decimal en binario, use el método `toString()` y pase la base del sistema como parámetro.
-
-Por lo general, en JavaScript, podemos llamar a un método en un objeto usando un punto. Por ejemplo, si hemos almacenado un número en la variable `i`, podemos obtener su representación hexadecimal llamando al método `i.toString(16)`. Pero no podemos llamar a un método en el número 2, `2.toString(16)`, porque en JavaScript, el punto en la notación de números separa la parte entera de la fraccionaria. Si la parte fraccionaria es cero, no es necesario escribirla, por lo que "2." significa lo mismo que "2.0".
-
-En el ejemplo, verá tres formas correctas de evitar este problema y llamar al método `toString()` en el número 26.
-
-```javascript
-console.log((26).toString(2)) // => '11010'
-console.log(26..toString(16)) // => '1a'
-console.log(26 .toString(8)) // => '32'
-```
-
 ## Sistema octal
 
 El sistema octal solía usarse junto con el sistema hexadecimal. Por el nombre, se entiende que utiliza solo ocho dígitos: 0, 1, 2, 3, 4, 5, 6 y 7. El sistema octal es adecuado para representar números binarios de seis, nueve y doce dígitos.
