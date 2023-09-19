@@ -1,6 +1,6 @@
 ---
 title: Sistemas de numeración
-description: En esta guía, aprenderemos qué son los sistemas de numeración, por qué los programadores utilizan formas inusuales de escribir números y cómo entenderlos.
+description: En esta guía, aprenderemos qué son los sistemas de numeración, por qué los programadores utilizan formas inusuales de escribir números y cómo entenderlos
 author: Mark Shevchenko
 # redirect_from: /numeral-systems/
 image: "/assets/images/numeral-systems/numeral-systems.png"
@@ -90,11 +90,11 @@ A partir de este ejemplo, se puede ver que todos los sumandos tienen solo dos fa
 
 ![1×16+1×8+1×2](/assets/images/numeral-systems/example10.png)
 
-En los sumandos con el factor 1, este factor no se puede escribir.
+EPara los sumandos con multiplicador 1, puede omitirse el multiplicador.
 
 ![16+8+2](/assets/images/numeral-systems/example11.png)
 
-Ahora es fácil calcular la suma.
+Ahora resulta fácil calcular la suma.
 
 ![26](/assets/images/numeral-systems/example12.png)
 
@@ -104,9 +104,9 @@ Conclusión: el número binario 11010 es lo mismo que el número decimal 26.
 
 Repitamos cómo convertir un número binario en decimal.
 
-- Escribir el número en notación matemática.
-- Descartar los sumandos con el factor 0.
-- Sumar el resultado.
+- Escribir el número en notación matemática
+- Descartar los sumandos con el factor 0
+- Sumar el resultado
 
 Los programadores a veces memorizan algunas potencias de dos para poder estimar el orden de los números binarios. Puedes echar un vistazo a esta tabla:
 
@@ -133,7 +133,7 @@ Con esta tabla, puedes convertir números de binarios a decimales prácticamente
 
 ## Cómo convertir números decimales a binarios
 
-Este problema es similar a un acertijo matemático y se puede encontrar en una olimpiada para estudiantes.
+Este problema es similar a un acertijo matemático y se puede encontrar en una prueba para los escolares.
 
 Para aprender a resolverlo, echemos otro vistazo a los primeros números naturales en notación binaria y decimal.
 
@@ -149,7 +149,7 @@ Para aprender a resolverlo, echemos otro vistazo a los primeros números natural
 |                8 | 1000<sub>2</sub> |
 |                9 | 1001<sub>2</sub> |
 
-Observamos la siguiente regularidad: todos los números pares, como 2, 4, 6 y 8, terminan en 0 en la notación binaria. Todos los números impares, como 1, 3, 5, 7 y 9, terminan en 1. Esto tiene una explicación simple: en la notación binaria, el número 2 es como 10 en la notación decimal. Si un número binario es divisible por dos, es redondo. Los matemáticos dicen que los números pares son divisibles por dos sin residuo (o con un residuo de 0), y los números impares tienen un residuo de 1:
+Observamos la siguiente regularidad: todos los números pares, como 2, 4, 6 y 8, terminan en 0 en la notación binaria. Todos los números impares, como 1, 3, 5, 7 y 9, terminan en 1. Esto tiene una explicación simple: en la notación binaria, el número 2 es como 10 en la notación decimal. Si un número binario es divisible por dos, es redondo. Los matemáticos dicen que los números pares son divisibles por 2 sin resto y los impares son divisibles por 1:
 
 - al dividir 4 por 2, el residuo es 0;
 - al dividir 5 por 2, el residuo es 1;
@@ -161,7 +161,6 @@ Intentemos convertir el número decimal 26 en binario. Para hacer esto, usemos l
 ![Convertir número decimal en binario](/assets/images/numeral-systems/example24.png)
 
 Si dividimos 26 por 2, obtendremos 13 como resultado, con un residuo de 0. Continuemos:
-
 - al dividir 13 por 2, obtendremos 6 como resultado, con un residuo de 1;
 - al dividir 6 por 2, obtendremos 3 como resultado, con un residuo de 0;
 - al dividir 3 por 2, obtendremos 1 como resultado, con un residuo de 1;
@@ -187,7 +186,7 @@ console.log(26 .toString(8)) // => '32'
 
 El sistema octal solía usarse junto con el sistema hexadecimal. Por el nombre, se entiende que utiliza solo ocho dígitos: 0, 1, 2, 3, 4, 5, 6 y 7. El sistema octal es adecuado para representar números binarios de seis, nueve y doce dígitos.
 
-Estos números no se encuentran con frecuencia. Uno de los ejemplos más conocidos de uso de números octales son los permisos de acceso en el sistema operativo UNIX. Se escriben como un número binario de nueve dígitos, por ejemplo, 110100100 o 111101100. Es incómodo memorizar y transmitir tales números, por lo que los programadores prefieren el sistema octal y escriben los permisos de acceso como 644 o 754.
+Estos números no son frecuentes. Uno de los ejemplos más conocidos de uso de números octales son los permisos de acceso en el sistema operativo UNIX. Se escriben como un número binario de nueve dígitos, por ejemplo, 110100100 o 111101100. Es incómodo memorizar y transmitir tales números, por lo que los programadores prefieren el sistema octal y escriben los permisos de acceso como 644 o 754.
 
 Los sistemas operativos populares Linux y MacOS tienen sus raíces en UNIX, por lo que también utilizan números octales para los permisos de acceso.
 
@@ -260,7 +259,7 @@ Para convertir un número decimal, por ejemplo, 26, a binario, debe ingresar la 
 
 ![26 binary](/assets/images/numeral-systems/google02.png)
 
-Tenga en cuenta que Google utiliza el prefijo 0b para distinguir los números binarios de los decimales.
+Ten en cuenta que Google utiliza el prefijo 0b para distinguir los números binarios de los decimales.
 
 Para convertir un número decimal, por ejemplo, 137, a hexadecimal, ingrese la consulta **137 hex**.
 
