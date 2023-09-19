@@ -269,8 +269,7 @@ La capacidad de describir comandos de varias líneas en el Makefile permite util
 
 ### Recursos adicionales
 
-{/*- [Makefile Tutorial](https://makefile.site/) - a "cheat sheet" from the official documentation in Russian; */}
-* [Make Utility: A Useful Universal Tool for Programmers](https://www.youtube.com/watch?v=pK9mF5aK05Q) - video version of this guide.
+*- [Makefile Tutorial](https://makefile.site/) - extracto de la documentación.
 
 Makefiles used in this guide:
 
