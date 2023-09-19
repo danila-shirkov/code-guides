@@ -26,7 +26,7 @@ author: Kirill Mokevnin
 
 ## Sobre funciones
 
-> ¡Vamos allá! Por lo general, esperamos que las funciones reduzcan la duplicación de código. Sí, las funciones eliminan la duplicación, pero solo como complemento a su propósito principal. El verdadero propósito de una función es aumentar el nivel de abstracción. Suena un poco abstracto, así que profundicemos más =>
+> ¡Empecemos! Por lo general, esperamos que las funciones reduzcan la duplicación de código. Sí, las funciones eliminan la duplicación, pero solo como complemento a su propósito principal. El verdadero propósito de una función es aumentar el nivel de abstracción. Suena un poco abstracto, así que profundicemos más =>
 
 [Enlace al hilo](https://twitter.com/mokevnin/status/1396824737540722688)
 
@@ -84,7 +84,7 @@ author: Kirill Mokevnin
 
 [Enlace al hilo](https://twitter.com/mokevnin/status/1479513710565761029?s=20)
 
-## YouTube y torrents vs. educación de pago
+## YouTube y torrents VS educación de pago
 
 > A pesar de los problemas que ocurren en muchos servicios, las plataformas educativas no venden solo cursos. Hilo sobre por qué los torrents y YouTube no son competencia para la educación de pago. ¿Cuál es tu top personal?
 
