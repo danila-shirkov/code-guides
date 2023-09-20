@@ -66,7 +66,7 @@ Selecciona "Borrar disco y instalar Ubuntu" sin preocupaciones y continúa.
 
 ![Instalación de Ubuntu - Borrado del disco](/assets/images/virtualbox/virtualization_12.png)
 
-Si seleccionaste el idioma ruso en el primer paso de la instalación, se te ofrecerá el teclado ruso como opción adicional.
+Si seleccionaste el idioma español en el primer paso de la instalación, se te ofrecerá el teclado español como opción adicional.
 
 ![Instalación de Ubuntu - Selección del diseño del teclado](/assets/images/virtualbox/virtualization_13.png)
 
