@@ -33,6 +33,7 @@ Existen problemas más complicados que utilizan tablas tridimensionales para su 
 
 ![1d_vs_2d_vs_3d](/assets/images/dynamic_programming/1d_vs_2d_vs_3d.png)
 
+
 ¿Qué se necesita para resolver un problema de manera dinámica, además de sus datos iniciales? Solo tres cosas:
 
 * Una tabla en la que se almacenarán los resultados intermedios. Uno de ellos se seleccionará al final del algoritmo como la respuesta.
@@ -49,15 +50,15 @@ Este problema se puede formular de la siguiente manera: encontrar la "distancia"
 
 Tenemos tres operaciones disponibles:
 
-* insertar: agregar una letra en cualquier lugar de la palabra, incluido el principio y el final.
-* eliminar: eliminar una letra de cualquier lugar de la palabra.
-* reemplazar: reemplazar una letra en una posición específica por otra letra.
+* insert: agregar una letra en cualquier lugar de la palabra, incluido el principio y el final
+* delete: eliminar una letra de cualquier lugar de la palabra
+* replace: reemplazar una letra en una posición específica por otra letra
 
 Todas estas operaciones tienen el mismo costo: +1 a la distancia entre las palabras.
 
 Tomemos dos palabras simples, MONEY y MONKEY. ¿Cuántas operaciones mínimas se necesitan para convertir MONEY en MONKEY? Un ojo humano ingenioso rápidamente se dará cuenta de que solo se necesita una operación: agregar la letra K entre la tercera y cuarta letra.
 
-Tomemos un ejemplo más complicado. Intentemos convertir la palabra SUNDAY en la palabra SATURDAY y veremos que la cantidad de combinaciones que se deben probar puede ser muy grande. Si se resuelve por fuerza bruta, se pueden considerar todas las combinaciones posibles, al igual que en el ejemplo de descifrar una contraseña. En lugar de los 94 candidatos posibles para cada carácter, tenemos tres operaciones: insertar, eliminar y reemplazar. Tres combinaciones para la primera letra, 3 * 3 para las dos letras, 3 * 3 * 3 para las tres letras, 3^N para N letras. Una explosión combinatoria.
+Ahora veamos un ejemplo más complicado. Intentemos convertir la palabra SUNDAY en la palabra SATURDAY y veremos que la cantidad de combinaciones que se deben probar puede ser muy grande. Si se resuelve por fuerza bruta, se pueden considerar todas las combinaciones posibles, al igual que en el ejemplo de descifrar una contraseña. En lugar de los 94 candidatos posibles para cada carácter, tenemos tres operaciones: insertar, eliminar y reemplazar. Tres combinaciones para la primera letra, 3 * 3 para las dos letras, 3 * 3 * 3 para las tres letras, 3^N para N letras. Una explosión combinatoria.
 
 ### Solución dinámica
 
@@ -92,10 +93,10 @@ También llamaremos A a la palabra vertical y B a la palabra horizontal. Necesit
 Finalmente, crearemos nuestra regla de llenado de la tabla. Para cada nueva celda, comprobamos las tres celdas vecinas: la de arriba, la de la izquierda y la de arriba a la izquierda en diagonal. De los tres números, se selecciona el más pequeño y se coloca en la nueva celda.
 
 ```
-D[i, j] = mínimo(
-	D[i-1, j] + 1,                              // eliminar
-	D[i, j-1] + 1,                              // insertar
-	D[i-1, j-1] + (A[i-1] == B[j-1] ? 1 : 0)    // reemplazar
+D[i, j] = minimum(
+	D[i-1, j] + 1,                              // delete
+	D[i, j-1] + 1,                              // insert
+	D[i-1, j-1] + (A[i-1] == B[j-1] ? 1 : 0)    // replace
 )
 ```
 
@@ -145,6 +146,16 @@ Veamos paso a paso. La transición de S a S no cuesta nada. La transición de S 
 
 Por cierto, si observamos la tabla, podemos ver que hay varias soluciones óptimas: desde D[1,2] se puede pasar tanto a D[1,3] como a D[2,2]. En esta formulación del problema, solo nos interesa la cantidad mínima, no la lista de todas las posibles rutas de solución, por lo que esto no es relevante.
 
+|       |  ε   |   S   |   A   |   T   |   U   |   R   |   D   |   A   |   Y   |
+| :---: | :--: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **ε** |  0   |   1   |   2   |   3   |   4   |   5   |   6   |   7   |   8   |
+| **S** |  1   | **0** | **1** | **2** |   3   |   4   |   5   |   6   |   7   |
+| **U** |  2   |   1   |   1   |   2   | **2** |   3   |   4   |   5   |   6   |
+| **N** |  3   |   2   |   2   |   2   |   3   | **3** |   4   |   5   |   6   |
+| **D** |  4   |   3   |   3   |   3   |   3   |   4   | **3** |   4   |   5   |
+| **A** |  5   |   4   |   3   |   4   |   4   |   4   |   4   | **3** |   4   |
+| **Y** |  6   |   5   |   4   |   4   |   5   |   5   |   5   |   4   | **3** |
+
 Así es como se ven la mayoría de las soluciones en el mundo de la programación dinámica. Por cierto, esta solución tiene un nombre: el algoritmo de Wagner-Fischer. Un hecho curioso: este algoritmo fue publicado casi simultáneamente por diferentes grupos de científicos desconocidos de diferentes partes del mundo en una época en la que aún no existía Internet. Los señores Wagner y Fischer, por cierto, no fueron los primeros en hacerlo.
 
 Ahora veamos cuáles son las diferencias entre la aplicación de este algoritmo y la solución por fuerza bruta.
@@ -187,7 +198,7 @@ Los científicos en este campo se dedican a "digitalizar" material biológico, a
 
 Un solo genoma no presenta problemas graves, pero los genomas en sí mismos no son muy interesantes: para detectar mutaciones en el genoma de una persona en particular, primero debe "alinear" ese genoma con otros genomas de referencia (que ya están alineados y anotados). Puede haber muchas opciones posibles para esta alineación, pero debe encontrar la más probable. Por ejemplo, la opción con el menor número de mutaciones. Si tenemos en cuenta que el código genético generalmente se almacena como cadenas muy largas de diferentes letras, el ejemplo de la distancia de Levenshtein comienza a cobrar vida. Este problema, que potencialmente lleva a una explosión combinatoria (como probar todas las combinaciones posibles de caracteres para descifrar una contraseña), se resuelve maravillosamente con métodos de programación dinámica.
 
-Si está interesado, lea sobre el [Alineamiento Múltiple de Secuencias (MSA)](https://en.wikipedia.org/wiki/Multiple_sequence_alignment#Dynamic_programming)
+Si está interesado, lea sobre el [Alineamiento Múltiple de Secuencias (MSA)](https://es.wikipedia.org/wiki/Alineamiento_múltiple_de_secuencias)
 
 Este es solo un ejemplo. La bioinformática vive y respira programación dinámica: aquí hay algunos ejemplos más:
 
