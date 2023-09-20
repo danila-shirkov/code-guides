@@ -17,19 +17,19 @@ Hace unos 3500 años, los alfareros en Mesopotamia protegían los secretos de su
 
 Supongamos que queremos cifrar el mensaje "Hola". Una forma de hacerlo es desplazar las letras del alfabeto un número fijo de posiciones. Este método se llama cifrado de desplazamiento o **cifrado de César**.
 
-En la siguiente imagen se muestra un desplazamiento de dos letras hacia adelante.
+En la siguiente imagen se muestra un desplazamiento de tres letras hacia adelante.
 
 ![alfabeto](/assets/images/cryptography/alphabet.png)
 
-Un desplazamiento de dos letras significa que:
+Un desplazamiento de tres letras significa que:
 
-A ⇒ B
-B ⇒ C
-C ⇒ D
+A ⇒ D
+B ⇒ E
+C ⇒ F
 
-El mensaje "Hola" se convierte en "Jqnc".
+El mensaje "Hola" se convierte en "Krñd".
 
-El cifrado se puede mejorar aplicando un método más avanzado. Imagina que después de cada uso, el algoritmo de cifrado cambia, es decir, el mismo mensaje repetido se verá completamente diferente. En otras palabras, si en el primer caso obtuvimos "Jqnc", en el siguiente caso la misma palabra se cifrará como "Gmbob": ahora el desplazamiento se ha producido una letra hacia atrás.
+El cifrado se puede mejorar aplicando un método más avanzado. Imagina que después de cada uso, el algoritmo de cifrado cambia, es decir, el mismo mensaje repetido se verá completamente diferente. En otras palabras, si en el primer caso obtuvimos "Krñd", en el siguiente caso la misma palabra se cifrará como "Gñkz": ahora el desplazamiento se ha producido una letra hacia atrás.
 
 ## Métodos modernos de criptografía
 
@@ -99,7 +99,7 @@ Con las herramientas de cifrado adecuadas, los usuarios pueden proteger los dato
 
 Sin embargo, en las condiciones modernas, estos métodos no pueden garantizar la seguridad de los sistemas masivos de comunicación electrónica o comercio. Ahora tenemos que trabajar no solo con casos específicos de almacenamiento o transmisión de información, sino también con volúmenes masivos de datos.
 
-## Cómo los usuarios comunes pueden utilizar la criptografía
+## Cómo los usuarios comunes pueden utilizar la criptografía?
 
 Como se mencionó al principio del artículo, la criptografía es parte de la vida cotidiana. El pago de compras con tarjeta o simplemente conectarse a una red Wi-Fi requieren el uso de criptografía.
 
@@ -149,4 +149,4 @@ Aunque la criptografía no es perfecta, es necesaria para garantizar la segurida
 
 ## Otros guías relacionadas
 
-1. [¿Qué es una API?](https://guides.hexlet.io/es/http-api/)
+1. [¿Qué es una API?](https://guides.hexlet.io/ru/http-api/)
