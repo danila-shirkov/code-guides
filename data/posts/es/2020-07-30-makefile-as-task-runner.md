@@ -49,7 +49,7 @@ make test
 
 Inicialmente, `make` se diseñó para automatizar la compilación de programas y bibliotecas a partir del código fuente. Se incluyó de forma predeterminada en la mayoría de las distribuciones *nix, lo que llevó a su amplia adopción y uso generalizado. Más tarde, resultó que esta herramienta también es útil para el desarrollo de cualquier otro tipo de proyecto, ya que el proceso en su mayoría se reduce a las mismas tareas: automatización y compilación de aplicaciones.
 
-El uso de Makefile en proyectos se ha convertido en un estándar para muchos desarrolladores, incluidos los proyectos grandes. Puedes encontrar ejemplos de Makefile en proyectos como [Kubernetes](https://github.com/kubernetes/kubernetes/blob/master/build/root/Makefile), [Babel](https://github.com/babel/babel/blob/main/Makefile), [Ansible](https://github.com/ansible/ansible/blob/devel/Makefile) y, por supuesto, en todas partes en [Hexlet](https://github.com/Hexlet).
+El uso de Makefile en proyectos se ha convertido en un estándar para muchos desarrolladores, incluidos los proyectos grandes. Puedes encontrar ejemplos de Makefile en proyectos como [Kubernetes](https://github.com/kubernetes/kubernetes/blob/master/build/root/Makefile), [Babel](https://github.com/babel/babel/blob/main/Makefile), [Ansible](https://github.com/ansible/ansible/blob/devel/lib/ansible/galaxy/data/apb/Makefile.j2) y, por supuesto, en todas partes en [Hexlet](https://github.com/Hexlet).
 
 ### Sintaxis de *Makefile*
 
