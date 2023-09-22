@@ -201,6 +201,5 @@ Aquí se evalúa el conocimiento de bibliotecas, frameworks, peculiaridades de l
 
 ### Enlaces útiles
 
-* [El arte de realizar entrevistas (Joel Spolsky)](https://bit.ly/2Gwc2gt)
 * [Qué esperan los gerentes y programadores experimentados de los juniors](https://hexlet.io/blog/posts/chego-vy-zhdyote-ot-dzhuniora-otvechayut-rukovoditeli-i-opytnye-razrabotchiki)
 * [Qué esperan los empleadores de los juniors: análisis de vacantes](https://hexlet.io/blog/posts/chto-trebuyut-ot-dzhuniorov-rabotodateli-analiz-vakansiy-dlya-mladshih-programmistov)
