@@ -197,7 +197,7 @@ Aquí se evalúa el conocimiento de bibliotecas, frameworks, peculiaridades de l
 * [java](https://github.com/enhorse/java-interview)
 * [frontend](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/src/translations/russian)
 * [python](https://grishaev.me/interview/)
-* [javascript]((https://github.com/sudheerj/javascript-interview-questions)
+* [javascript](https://github.com/sudheerj/javascript-interview-questions)
 
 ### Enlaces útiles
 
