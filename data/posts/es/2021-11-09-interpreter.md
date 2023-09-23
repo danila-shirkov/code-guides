@@ -39,7 +39,7 @@ d:  66 83 f9 00             cmp    cx,0
 
 Para facilitar su trabajo, los programadores inventaron lenguajes de programación: son más comprensibles para los humanos, por lo que es más fácil escribir programas en ellos. En esta etapa, surgió un problema: si el ordenador solo entiende comandos en forma de números, ¿cómo ejecutará los comandos escritos en un lenguaje de programación?
 
-Existen dos tipos de programas que ayudan a resolver este problema: los *intérpretes* y los *compiladores*. Puedes leer sobre los compiladores [aquí](/compiler/), en este texto nos centraremos solo en los intérpretes.
+Existen dos tipos de programas que ayudan a resolver este problema: los *intérpretes* y los *compiladores*. Puedes leer sobre los compiladores [aquí](https://es.wikipedia.org/wiki/Compilador), en este texto nos centraremos solo en los intérpretes.
 
 En resumen, un *intérprete* es un programa que ejecuta comandos escritos en un lenguaje de programación. Por ejemplo, un intérprete de Python entiende los comandos del lenguaje Python, y un intérprete de JavaScript entiende los comandos del lenguaje JavaScript.
 
