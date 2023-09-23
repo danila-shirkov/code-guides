@@ -6,7 +6,7 @@ image: "/assets/images/https/https-superhero.png"
 author: Kirill Mokevnin
 ---
 
-Esta guía ha sido reproducida del [blog de Yandex](https://yandex.ru/blog/company/77455) para la comodidad de los usuarios. En ella se habla sobre el protocolo HTTPS, su relevancia, áreas de aplicación y difusión.
+Esta guía ha sido reproducida del [blog de Siteground](https://es.siteground.com/blog/que-es-https-y-para-que-sirve-guia-completa/) para la comodidad de los usuarios. En ella se habla sobre el protocolo HTTPS, su relevancia, áreas de aplicación y difusión.
 
 Cada acción en Internet implica el intercambio de datos. Cada vez que reproduces un video, envías un mensaje en una red social o abres tu sitio web favorito, tu computadora envía una solicitud al servidor correspondiente y recibe una respuesta. Por lo general, el intercambio de datos se realiza a través del protocolo HTTP. Este protocolo no solo establece las reglas para el intercambio de información, sino que también sirve como transporte para la transferencia de datos, permitiendo que el navegador cargue el contenido del sitio en tu computadora o teléfono inteligente.
 
