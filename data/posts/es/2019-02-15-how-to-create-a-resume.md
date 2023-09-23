@@ -169,7 +169,7 @@ El trabajo no es solo un proceso mecánico. Incluso los desarrolladores pasan mu
 * [Hexlet CV: publicación de currículums y recomendaciones de miembros de la comunidad y profesionales de recursos humanos](https://cv.hexlet.io/)
 * [Cómo redactar un currículum con tu propia voz](https://www.forbes.com/sites/lizryan/2014/07/17/how-to-write-your-human-voiced-resume/)
 * [Entrevista con el director técnico de Avito (segunda parte sobre contratación)](https://www.youtube.com/watch?v=8wurHiUJwUA&t=5s)
-* [Entrevista con un reclutador. ¿Cómo funciona la búsqueda y filtración de candidatos?](https://www.youtube.com/watch?v=Zg9iNKaFqSY)
+* [Entrevista con un reclutador. ¿Cómo es la primera entrevista como programador web?](https://www.youtube.com/watch?v=CdD2OgNvs9s&t=1s&ab_channel=EduardoFierro)
 * [Cómo responder correctamente a una oferta de trabajo: consejos de la gerente de recursos humanos de Hexlet, Lyudmila Semyonova](https://ru.hexlet.io/blog/posts/kak-pravilno-otkliknutsya-na-vakansiyu-9-sovetov-ot-hr-menedzhera-heksleta-lyudmily-semyonovoy)
 * [En el currículum no debe haber cambios frecuentes de trabajo: recomendaciones del líder de equipo de Evrone, Dmitry Matveev](https://ru.hexlet.io/blog/posts/v-rezyume-ne-dolzhno-byt-chastoy-smeny-raboty-ili-o-trebovaniyah-timlida-k-razrabotchikam-intervyu-s-dmitriem-matveevym-evrone)
 * [Expertos en recursos humanos hablan sobre el empleo](https://ru.hexlet.io/blog/posts/neprostye-otvety-na-prostye-voprosy-hr-eksperty-rasskazyvayut-o-trudoustroystve)
