@@ -112,4 +112,4 @@ El código fuente se transforma en un árbol de sintaxis abstracta, luego el AST
 ## Recursos adicionales
 
 - [Sitio web para construir AST](https://astexplorer.net/)
-- [Traducción del proyecto The Super Tiny Compiler! (El Súper Pequeño Compilador)](https://github.com/VladReshet/the-super-tiny-compiler-rus)
+- [Traducción del proyecto The Super Tiny Compiler! (El Súper Pequeño Compilador)](https://github.com/jamiebuilds/the-super-tiny-compiler)
