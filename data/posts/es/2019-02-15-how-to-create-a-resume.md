@@ -166,7 +166,6 @@ El trabajo no es solo un proceso mecánico. Incluso los desarrolladores pasan mu
 
 ## Enlaces adicionales
 
-* [Hexlet CV: publicación de currículums y recomendaciones de miembros de la comunidad y profesionales de recursos humanos](https://cv.hexlet.io/)
 * [Cómo redactar un currículum con tu propia voz](https://www.forbes.com/sites/lizryan/2014/07/17/how-to-write-your-human-voiced-resume/)
 * [Entrevista con un reclutador. ¿Cómo es la primera entrevista como programador web?](https://www.youtube.com/watch?v=CdD2OgNvs9s&t=1s&ab_channel=EduardoFierro)
 * [Cómo responder correctamente a una oferta de trabajo: consejos de la gerente de recursos humanos de Hexlet, Lyudmila Semyonova](https://ru.hexlet.io/blog/posts/kak-pravilno-otkliknutsya-na-vakansiyu-9-sovetov-ot-hr-menedzhera-heksleta-lyudmily-semyonovoy)
