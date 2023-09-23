@@ -129,8 +129,6 @@ Los libros de programación a menudo contienen ejercicios al final de los capít
 
 En Hexlet, hemos recopilado una gran [colección de pruebas de trabajo](https://github.com/Hexlet/ru-test-assignments) para diferentes puestos de muchas empresas. Encuentra algo que te guste y ponlo en práctica.
 
-Según nuestros graduados, los [proyectos de Hexlet](https://ru.hexlet.io/projects) son muy útiles para encontrar trabajo. Esta también es una forma de llenar tu portafolio.
-
 GitHub no solo es un lugar conveniente para almacenar tu código, sino también una forma de involucrarte en el desarrollo de proyectos de otras personas. Únete al [Open Source](https://ru.hexlet.io/blog/posts/participate-in-open-source).
 
 ## Habilidades clave
