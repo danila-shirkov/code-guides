@@ -97,7 +97,7 @@ _Cumplir con estas prácticas no garantiza que no haya problemas en la empresa. 
 
 **Bien**
 
-* Los desarrolladores siguen los principios de [12 factores](https://habr.com/post/258739/). Las aplicaciones son más fáciles de implementar, escalar y monitorear.
+* Los desarrolladores siguen los principios de [12 factores](https://www.aplyca.com/blog/12-factor-app-aplicaciones-exitosas-saas). Las aplicaciones son más fáciles de implementar, escalar y monitorear.
 * Ejecutar una prueba individual toma fracciones de segundo. El desarrollo a través de pruebas implica una ejecución de pruebas muy frecuente durante el proceso de depuración. En tal situación, es muy importante que el inicio de una prueba específica sea lo suficientemente rápido como para que el desarrollador permanezca en contexto.
 * Es fácil y agradable escribir pruebas. Esta es una prueba de fuego para determinar qué tan bien están las pruebas en el proyecto. Si tienes que obligarte a escribir pruebas, es probable que las pruebas estén escritas de manera deficiente (por ejemplo, con muchas simulaciones) y no sean suficientes.
 * [Desarrollo guiado por pruebas (TDD)](https://es.wikipedia.org/wiki/Desarrollo_guiado_por_pruebas). Si es posible, las pruebas se escriben antes del código. Hay varias razones por las que esto es importante:
