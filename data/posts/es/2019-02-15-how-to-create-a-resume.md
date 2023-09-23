@@ -152,7 +152,7 @@ Las habilidades aplicadas incluyen:
 * Marcos de trabajo. Es especialmente relevante para el desarrollo web.
 * Bibliotecas clave. Este punto es bastante peligroso. Los principiantes intentan mencionar todo lo que han visto. Pero no debes hacerlo, eso resalta tu nivel. Menciona solo lo que pueda ser importante para los empleadores, como React o jQuery.
 
-Entre los desarrolladores, los servicios de preguntas y respuestas como [Stack Overflow](https://es.stackoverflow.com/) o [Habr Q&A](https://qna.habr.com/) son populares. Incluso si estás empezando tu camino, siempre hay personas que saben menos que tú. Regístrate en estos servicios y comienza a seguir las preguntas de los principiantes. Incluso una docena de respuestas útiles te darán muchos puntos positivos. Los empleadores valoran esta actividad.
+Entre los desarrolladores, los servicios de preguntas y respuestas como [Stack Overflow](https://es.stackoverflow.com/) o [Reddit](https://www.reddit.com/r/programming/) son populares. Incluso si estás empezando tu camino, siempre hay personas que saben menos que tú. Regístrate en estos servicios y comienza a seguir las preguntas de los principiantes. Incluso una docena de respuestas útiles te darán muchos puntos positivos. Los empleadores valoran esta actividad.
 
 ### ¿Qué no se debe mencionar en el currículum?
 
