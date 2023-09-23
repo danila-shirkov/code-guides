@@ -45,7 +45,7 @@ En resumen, un *intérprete* es un programa que ejecuta comandos escritos en un 
 
 ## Un vistazo a la historia
 
-Lisp resultó ser una invención exitosa. A lo largo de los años, las personas han inventado muchos lenguajes que resultaron ser innecesarios. Esto no se puede decir de Lisp, que sigue desarrollándose hasta el día de hoy. Aclararé que diferentes equipos se encargaron del desarrollo de los intérpretes de Lisp, por lo que obtuvieron diferentes versiones del lenguaje. Estas versiones del lenguaje se llaman *dialectos*. Además de Emacs Lisp, es posible que hayas oído hablar de [ClojureScript](https://ru.code-basics.com/languages/clojure), un dialecto de Lisp que a veces se utiliza en lugar de JavaScript para el desarrollo frontend.
+Lisp resultó ser una invención exitosa. A lo largo de los años, las personas han inventado muchos lenguajes que resultaron ser innecesarios. Esto no se puede decir de Lisp, que sigue desarrollándose hasta el día de hoy. Aclararé que diferentes equipos se encargaron del desarrollo de los intérpretes de Lisp, por lo que obtuvieron diferentes versiones del lenguaje. Estas versiones del lenguaje se llaman *dialectos*. Además de Emacs Lisp, es posible que hayas oído hablar de [ClojureScript](https://github.com/HiroNakamura/curso-clojure), un dialecto de Lisp que a veces se utiliza en lugar de JavaScript para el desarrollo frontend.
 
 Veamos un ejemplo de un programa en Lisp para comprender la diferencia entre el código de máquina y el "lenguaje casi humano":
 
