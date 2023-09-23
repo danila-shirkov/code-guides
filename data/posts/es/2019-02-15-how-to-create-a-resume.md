@@ -66,8 +66,6 @@ El conocimiento del inglés también es importante, al menos a nivel de lectura 
 
 Los libros también son importantes, especialmente al principio. Los algoritmos, los sistemas operativos, todo esto suma puntos a tu karma y muestra tu amplitud de conocimientos.
 
-En Hexlet, hemos compilado una [lista de libros recomendados](https://ru.hexlet.io/pages/recommended-books) para cualquier desarrollador.
-
 ## Educación adicional
 
 Los cursos son más complicados. Desafortunadamente, la mayoría de los cursos no son útiles para tus futuros empleadores. Además, enumerar todos los cursos en la sección "adicional" puede ser contraproducente. Desde el punto de vista del empleador, da la impresión de que la persona está tratando de impresionar.
