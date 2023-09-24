@@ -194,9 +194,9 @@ Aquí se incluye un gran grupo de preguntas sobre las tecnologías con las que t
 
 Aquí se evalúa el conocimiento de bibliotecas, frameworks, peculiaridades de los lenguajes. En Internet, especialmente en GitHub, hay listas para cada pila posible.
 
-* [java](https://github.com/enhorse/java-interview)
-* [frontend](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/src/translations/russian)
-* [python](https://grishaev.me/interview/)
+* [java](https://github.com/Devinterview-io/java-interview-questions)
+* [frontend](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+* [python](https://github.com/Devinterview-io/python-interview-questions)
 * [javascript](https://github.com/sudheerj/javascript-interview-questions)
 
 ### Enlaces útiles
