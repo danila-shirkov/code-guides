@@ -170,6 +170,79 @@ A partir de los residuos 1, 1, 0, 1 y 0, se forma la representación binaria des
 
 ![11010](/assets/images/numeral-systems/example25.png)
 
+## Sistema hexadecimal
+
+Sabemos que las computadoras utilizan números para representar cualquier información. Por ejemplo, los colores se almacenan como tres números: la intensidad de los componentes rojo, verde y azul. Se dedican ocho posiciones binarias a cada componente, por lo que la máxima intensidad de un componente es 11111111₂ o 255. Un color se describe completamente con un número binario grande de 24 bits, por ejemplo, 11111010 10000000 01110010. Este es el color Salmon de la tabla de colores HTML, también conocido como color salmón.
+
+![Color salmon](/assets/images/numeral-systems/salmon-color.png)
+
+Las ocho posiciones más significativas se utilizan para almacenar el componente rojo, las ocho del medio para el verde y las ocho menos significativas para el azul. Vemos que esta representación es muy voluminosa e incómoda.
+
+Parece más conveniente representar el color como un número decimal, por ejemplo, 16416882. Aunque ocupa menos espacio, es difícil entender cuál es la intensidad de cada componente.
+
+Para representar números binarios grandes, los programadores idearon usar el sistema hexadecimal:
+
+* En el sistema decimal hay diez dígitos, mientras que en el hexadecimal hay dieciséis
+* En el sistema decimal, las posiciones adyacentes difieren en diez veces, mientras que en el hexadecimal, difieren en dieciséis veces
+
+Al igual que en el sistema binario, los dígitos 0, 1, 2, 3, 4, 5, 6, 7, 8 y 9 se toman del sistema decimal. Pero en este caso, estos dígitos no son suficientes: se necesitan seis más. En el sistema hexadecimal, estos dígitos se representan con las primeras letras del alfabeto inglés:
+
+|      Base 16 |      Base 10 |      Base 2 |
+|-------------:|-------------:|------------:|
+|             0|             0|            0|
+|             1|             1|            1|
+|             2|             2|           10|
+|             3|             3|           11|
+|             4|             4|          100|
+|             5|             5|          101|
+|             6|             6|          110|
+|             7|             7|          111|
+|             8|             8|         1000|
+|             9|             9|         1001|
+|             A|             10        |1010|
+|             B|             11        |1011|
+|             C|             12        |1100|
+|             D|             13        |1101|
+|             E|             14        |1110|
+|             F|             15        |1111|
+
+El sistema hexadecimal es útil porque un grupo de cuatro dígitos binarios se codifica en un solo dígito hexadecimal. Así, el color salmón se ve como:
+
+![1111 1010 1000 0000 0111 0010](/assets/images/numeral-systems/example25.png)
+
+En el sistema hexadecimal, se representa así:
+
+![FA 80 72](/assets/images/numeral-systems/example26.png)
+
+Al principio, puede ser difícil entender el orden de un número hexadecimal como FA. Al igual que con los números binarios, los programadores suelen recordar los órdenes de los números hexadecimales redondos. Pero no es necesario memorizarlos, se puede consultar esta tabla:
+
+| Número hexadecimal      | Número decimal   |
+|------------------------:|-----------------:|
+|          10<sub>16</sub>|                16|
+|          20<sub>16</sub>|                32|
+|          30<sub>16</sub>|                48|
+|          40<sub>16</sub>|                64|
+|          50<sub>16</sub>|                80|
+|          60<sub>16</sub>|                96|
+|          70<sub>16</sub>|               112|
+|          80<sub>16</sub>|               128|
+|          90<sub>16</sub>|               144|
+|          A0<sub>16</sub>|               160|
+|          B0<sub>16</sub>|               176|
+|          C0<sub>16</sub>|               192|
+|          D0<sub>16</sub>|               208|
+|          E0<sub>16</sub>|               224|
+|          F0<sub>16</sub>|               240|
+|         100<sub>16</sub>|               256|
+|        1000<sub>16</sub>|             4 096|
+|      1 0000<sub>16</sub>|            65 536|
+|     10 0000<sub>16</sub>|         1 048 576|
+|    100 0000<sub>16</sub>|        16 777 216|
+|   1000 0000<sub>16</sub>|       268 435 456|
+| 1 0000 0000<sub>16</sub>|     4 294 967 296|
+
+Para convertir números de decimal a hexadecimal y viceversa, se puede utilizar la representación binaria como intermediario. A menudo, este es el método más sencillo: las representaciones binarias y hexadecimales se convierten fácilmente entre sí.
+
 ## Sistema octal
 
 El sistema octal solía usarse junto con el sistema hexadecimal. Por el nombre, se entiende que utiliza solo ocho dígitos: 0, 1, 2, 3, 4, 5, 6 y 7. El sistema octal es adecuado para representar números binarios de seis, nueve y doce dígitos.
