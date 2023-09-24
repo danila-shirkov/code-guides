@@ -177,7 +177,7 @@ Recomendaciones
 
 Enlaces
 
-* [FizzBuzz, o por qué los programadores no saben programar](https://habr.com/ru/post/298134/)
+* [FizzBuzz, o por qué los programadores no saben programar](https://blog.codinghorror.com/why-cant-programmers-program/)
 * [17 páginas web para aprender a programar](https://merida.anahuac.mx/tecnia/blog/paginas-web-aprender-programar)
 
 ### Conocimientos aplicados
