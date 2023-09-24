@@ -115,7 +115,7 @@ Para depurar el código del backend, las funciones integradas son suficientes. P
 
 - [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 - [Debugger for Firefox](https://marketplace.visualstudio.com/items?itemName=hbenl.vscode-firefox-debug)
-- [Debugger for Edge](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-edge)
+- [Debugger for Edge](https://marketplace.visualstudio.com/items?itemName=ms-edgedevtools.vscode-edge-devtools)
 
 Puede obtener más información sobre la depuración en el sitio web de VS Code [aquí](https://code.visualstudio.com/docs/editor/debugging).
 
