@@ -71,7 +71,7 @@ Recomendaciones
 
 Enlaces
 
-* [Ejemplos de problemas](https://habr.com/ru/post/87239/)
+* [Ejemplos de problemas](https://www.primerempleo.com/noticias/detalle-noticia-empleo.asp?id=8246)
 
 #### Problemas de lógica
 
@@ -118,7 +118,7 @@ Recomendaciones
 
 Enlaces
 
-* [Grokking Algorithms](https://habr.com/ru/company/piter/blog/323310/)
+* [Grokking Algorithms](https://medium.com/javarevisited/grokking-algorithms-book-review-aa4459da93f5)
 
 #### Sistemas operativos y redes
 
@@ -127,7 +127,7 @@ Esto incluye una amplia gama de temas, como el dominio de la línea de comandos,
 Por lo general, estas preguntas no se hacen directamente. Principalmente se inventan varias historias o situaciones. Ejemplos de preguntas:
 
 * ¿Puede existir una dirección IP como 283.12.30.111?
-* [¿Qué sucede cuando un usuario ingresa la dirección google.com en el navegador?](https://habr.com/ru/company/htmlacademy/blog/254825/)
+* [¿Qué sucede cuando un usuario ingresa la dirección google.com en el navegador?](https://www.jasoft.org/Blog/post/que-pasa-cuando-escribes-la-direccion-de-una-web-en-tu-navegador-y-como-simular-cualquier-dominio-en-tu-equipo-local-para-desarrollo)
 * ¿Se pueden especificar parámetros de consulta y post al mismo tiempo en las solicitudes HTTP?
 
 Recomendaciones
