@@ -53,4 +53,4 @@ Esto es muy poco probable, pero incluso en ese caso, aún puedes ejecutar una m�
 ## Otros tutoriales relacionados
 
 1. [¿Qué es Vagrant?](https://www.vagrantup.com). Vagrant te permite crear y configurar entornos de desarrollo livianos, reproducibles y portátiles en máquinas virtuales.
-2. [Cómo trabajar con Linux utilizando Windows](/ubuntu-linux-in-windows/). Instrucciones para instalar Ubuntu Linux dentro de Windows utilizando diferentes tecnologías de virtualización.
+2. [Cómo trabajar con Linux utilizando Windows](/https://www.xataka.com/basics/como-instalar-linux-a-windows-10-ordenador/). Instrucciones para instalar Ubuntu Linux dentro de Windows utilizando diferentes tecnologías de virtualización.
