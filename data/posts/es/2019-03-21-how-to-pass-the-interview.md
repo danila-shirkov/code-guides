@@ -53,7 +53,7 @@ La parte principal de la entrevista, por lo general, gira en torno a preguntas a
 
 ## Resolución de problemas
 
-Los entrevistadores tienen diferentes enfoques para resolver problemas. Algunos nunca los dan, otros (nota del autor: me incluyo en este grupo) creen que no se pueden hacer conclusiones correctas sobre el nivel sin codificar realmente. En cualquier caso, debes estar preparado para resolver problemas similares a [FizzBuzz](https://ru.hexlet.io/challenges/js_basics_fizzbuzz_exercise) durante una entrevista. Tanto en la computadora como en papel.
+Los entrevistadores tienen diferentes enfoques para resolver problemas. Algunos nunca los dan, otros (nota del autor: me incluyo en este grupo) creen que no se pueden hacer conclusiones correctas sobre el nivel sin codificar realmente. En cualquier caso, debes estar preparado para resolver diferentes tipos de problemas. Tanto en la computadora como en papel.
 
 ## Preguntas para los entrevistadores
 
