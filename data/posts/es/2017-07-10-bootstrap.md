@@ -29,7 +29,7 @@ Esta no es una lista exhaustiva de proyectos que utilizan Bootstrap. Por lo tant
 
 ## Bootstrap como conjunto de elementos listos para usar
 
-Una de las características de Bootstrap es que se puede utilizar exclusivamente como un conjunto de elementos ya preparados. No se requieren conocimientos avanzados de HTML y CSS, solo es necesario saber cómo crear páginas básicas y leer la documentación. Por ejemplo, para crear un botón se utilizan dos clases, una para la estructura del botón y otra para el estilo. Este enfoque se llama **OOCSS** (CSS orientado a objetos). Puedes encontrar un artículo sobre este enfoque en el blog de Hexlet [aquí](https://ru.hexlet.io/blog/posts/oocss-basics).
+Una de las características de Bootstrap es que se puede utilizar exclusivamente como un conjunto de elementos ya preparados. No se requieren conocimientos avanzados de HTML y CSS, solo es necesario saber cómo crear páginas básicas y leer la documentación. Por ejemplo, para crear un botón se utilizan dos clases, una para la estructura del botón y otra para el estilo. Este enfoque se llama **OOCSS** (CSS orientado a objetos). Puedes encontrar un artículo sobre este enfoque en el blog de Hexlet [aquí](http://codica.la/blog/oocss-basics).
 
 ``` html
 <button class="btn btn-primary">Soy un botón azul</button>
@@ -182,4 +182,4 @@ Aprender Bootstrap puede ayudarte a crecer como desarrollador. Además de escrib
 
 * [Documentación de Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 * [Repositorio de Bootstrap](https://github.com/twbs/bootstrap)
-* [Bootstrap 5: Fundamentos de la maquetación](https://ru.hexlet.io/courses/bootstrap_basic)
+* [Bootstrap 5: Fundamentos de la maquetación](http://codica.la/cursos/bootstrap_basic)

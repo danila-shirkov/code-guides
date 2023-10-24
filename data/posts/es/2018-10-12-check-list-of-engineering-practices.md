@@ -21,7 +21,7 @@ Hay muchas razones para esta diferencia catastrófica. Aquí hay algunos de ello
 
 Algunos problemas son difíciles o imposibles de influir (desde el nivel del desarrollador). Pero otros, especialmente relacionados con las prácticas de ingeniería, deben mejorarse y cambiarse constantemente. Los programadores deben participar activamente en esto.
 
-* [Libros](https://ru.hexlet.io/pages/recommended-books)
+* [Libros](https://codica.la/paginas/libros-recomendados)
     * Peopleware: Proyectos y equipos productivos
     * El mítico hombre-mes. Ensayos de ingeniería de Software
     * El limpiador de código. Código de conducta para programadores profesionales
@@ -117,7 +117,7 @@ _Cumplir con estas prácticas no garantiza que no haya problemas en la empresa. 
 **Enlaces**
 
 * [12 factores](https://12factor.net/es/)
-* [Comenzando a escribir pruebas (correctamente)](https://ru.hexlet.io/blog/posts/how-to-test-code)
+* [Comenzando a escribir pruebas (correctamente)](http://codica.la/blog/how-to-test-code)
 
 ## Lanzamiento de nuevas versiones (más relevante para proyectos web)
 
@@ -145,4 +145,4 @@ La implementación (lanzamiento) es el proceso mediante el cual se actualiza el 
 **Enlaces**
 
 * [¿Qué es DevOps?](https://www.atlassian.com/es/devops)
-* [Entornos de desarrollo. ¡Impleméntalos!](https://ru.hexlet.io/blog/posts/environment)
+* [Entornos de desarrollo. ¡Impleméntalos!](https://codica.la/blog/enviroment)

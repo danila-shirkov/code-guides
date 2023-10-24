@@ -8,7 +8,7 @@ hidden: true
 
 Si estás utilizando una versión de Windows anterior a la 10 o si deseas obtener un sistema operativo Linux aislado con un entorno gráfico, puedes utilizar un software gratuito de terceros llamado VirtualBox.
 
-Información general sobre la tecnología de [virtualización](https://guides.hexlet.io/virtualization/)
+Información general sobre la tecnología de [virtualización](https://codica.la/guias/virtualization)
 
 Necesitarás:
 

@@ -123,11 +123,11 @@ Tu código en GitHub dice lo siguiente de inmediato:
 
 ### ¿Qué se puede agregar en GitHub?
 
-Los libros de programación a menudo contienen ejercicios al final de los capítulos. Crea un repositorio separado para cada libro y sube el código allí. Para SICP, tenemos [una guía completa](https://guides.hexlet.io/how-to-learn-sicp/).
+Los libros de programación a menudo contienen ejercicios al final de los capítulos. Crea un repositorio separado para cada libro y sube el código allí. Para SICP, tenemos [una guía completa](http://codica.la/guias/how-to-learn-sicp).
 
 En Hexlet, hemos recopilado una gran [colección de pruebas de trabajo](https://github.com/Hexlet/ru-test-assignments) para diferentes puestos de muchas empresas. Encuentra algo que te guste y ponlo en práctica.
 
-GitHub no solo es un lugar conveniente para almacenar tu código, sino también una forma de involucrarte en el desarrollo de proyectos de otras personas. Únete al [Open Source](https://ru.hexlet.io/blog/posts/participate-in-open-source).
+GitHub no solo es un lugar conveniente para almacenar tu código, sino también una forma de involucrarte en el desarrollo de proyectos de otras personas. Únete al [Open Source](http://codica.la/blog/participate-in-open-source).
 
 ## Habilidades clave
 
@@ -164,6 +164,6 @@ El trabajo no es solo un proceso mecánico. Incluso los desarrolladores pasan mu
 
 * [Cómo redactar un currículum con tu propia voz](https://www.forbes.com/sites/lizryan/2014/07/17/how-to-write-your-human-voiced-resume/)
 * [Entrevista con un reclutador. ¿Cómo es la primera entrevista como programador web?](https://www.youtube.com/watch?v=CdD2OgNvs9s&t=1s&ab_channel=EduardoFierro)
-* [Cómo responder correctamente a una oferta de trabajo: consejos de la gerente de recursos humanos de Hexlet, Lyudmila Semyonova](https://ru.hexlet.io/blog/posts/kak-pravilno-otkliknutsya-na-vakansiyu-9-sovetov-ot-hr-menedzhera-heksleta-lyudmily-semyonovoy)
-* [En el currículum no debe haber cambios frecuentes de trabajo: recomendaciones del líder de equipo de Evrone, Dmitry Matveev](https://ru.hexlet.io/blog/posts/v-rezyume-ne-dolzhno-byt-chastoy-smeny-raboty-ili-o-trebovaniyah-timlida-k-razrabotchikam-intervyu-s-dmitriem-matveevym-evrone)
+* [Cómo responder correctamente a una oferta de trabajo: consejos de la gerente de recursos humanos de Hexlet, Lyudmila Semyonova](https://codica.la/blog/como-responder-correctamente-a-una-oferta-de-empleo)
+* [En el currículum no debe haber cambios frecuentes de trabajo: recomendaciones del líder de equipo de Evrone, Dmitry Matveev](https://codica.la/blog/tu-cv-no-debe-incluir-cambios-frecuentes-de-trabajo)
 * [Expertos en recursos humanos hablan sobre el empleo](https://ru.hexlet.io/blog/posts/neprostye-otvety-na-prostye-voprosy-hr-eksperty-rasskazyvayut-o-trudoustroystve)

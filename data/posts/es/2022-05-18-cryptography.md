@@ -149,4 +149,4 @@ Aunque la criptografía no es perfecta, es necesaria para garantizar la segurida
 
 ## Otros guías relacionadas
 
-1. [¿Qué es una API?](https://guides.hexlet.io/ru/http-api/)
+1. [¿Qué es una API?](https://codica.la/guias/http-api)

@@ -190,4 +190,4 @@ La gestión de la configuración en el mundo moderno se realiza con herramientas
 ## Enlaces adicionales
 
 * https://github.com/hexlet-boilerplates/ansible
-* [Fundamentos de la automatización con Ansible](https://ru.hexlet.io/courses/ansible)
+* [Fundamentos de la automatización con Ansible](https://codica.la/cursos/ansible)

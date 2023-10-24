@@ -206,7 +206,7 @@ Tareas:
 
 #### Cursos en video
 
-A menudo nos piden transcribir videos, siguiendo el ejemplo del curso [Introducción a la programación](https://ru.hexlet.io/courses/introduction_to_programming). Puedes intentar participar en este proceso.
+A menudo nos piden transcribir videos, siguiendo el ejemplo del curso [Introducción a la programación](https://codica.la/cursos/introduction-to-programming). Puedes intentar participar en este proceso.
 
 Tareas:
 
@@ -242,9 +242,9 @@ Tareas:
 
 Cualquier usuario puede escribir en el blog. Hay tres categorías de publicaciones que se pueden agregar:
 
-1. Historias de éxito. La categoría más popular. Si has conseguido un trabajo y Hexlet ha tenido algo que ver con ello, comparte tu historia. Por esto, recibirás un descuento vitalicio del 50% en la suscripción. Ejemplo: [Vokrug da okolo ili priznanie samomu sebe](https://ru.hexlet.io/blog/posts/vokrug-da-okolo-ili-priznanie-samomu-sebe)
-2. Proceso de aprendizaje. Tus pensamientos, descubrimientos y dificultades con las que te has enfrentado. La comunidad está interesada en este tipo de publicaciones. Todos quieren saber que no están solos y que no solo ellos tienen dificultades. Ejemplo: [Miniobzor prohozhdeniya professii php-programmist](https://ru.hexlet.io/blog/posts/professions-php-greybutton)
-3. Artículos útiles sobre cualquier tema relacionado con nuestra audiencia. Ejemplo: [Klassifikatsiya programmistov po ikh tsennosti dlya biznesa](https://ru.hexlet.io/blog/posts/developers-business-value)
+1. Historias de éxito. La categoría más popular. Si has conseguido un trabajo y Hexlet ha tenido algo que ver con ello, comparte tu historia. Por esto, recibirás un descuento vitalicio del 50% en la suscripción. Ejemplo: [Vokrug da okolo ili priznanie samomu sebe](https://codica.la/blog/una-y-otra-vez-o-la-confesion-a-ti-mismo)
+2. Proceso de aprendizaje. Tus pensamientos, descubrimientos y dificultades con las que te has enfrentado. La comunidad está interesada en este tipo de publicaciones. Todos quieren saber que no están solos y que no solo ellos tienen dificultades. Ejemplo: [Miniobzor prohozhdeniya professii php-programmist](https://codica.la/blog/profesiones-php-greybutton)
+3. Artículos útiles sobre cualquier tema relacionado con nuestra audiencia. Ejemplo: [Klassifikatsiya programmistov po ikh tsennosti dlya biznesa](https://codica.la/blog/developers-business-value)
 
 Para el último punto, se pueden crear categorías completas. Una de ellas es una revisión de libros leídos.
 Ejemplos de temas interesantes:

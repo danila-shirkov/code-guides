@@ -121,4 +121,4 @@ Puede obtener más información sobre la depuración en el sitio web de VS Code 
 
 ## Enlaces
 
-[Curso](https://ru.hexlet.io/courses/js-setup-environment) sobre cómo configurar el entorno de trabajo para trabajar en el ecosistema moderno de JavaScript.
+[Curso](https://codica.la/cursos/js-setup-environment) sobre cómo configurar el entorno de trabajo para trabajar en el ecosistema moderno de JavaScript.

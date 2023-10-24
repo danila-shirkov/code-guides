@@ -55,5 +55,5 @@ Ten en cuenta las instrucciones oficiales de Microsoft, donde se explican no sol
 
 Si no puedes instalar WSL, puedes utilizar otras opciones de virtualización para instalar Linux. Consulta nuestras otras guías:
 
-* [VirtualBox](https://guides.hexlet.io/virtualbox/)
-* [Vagrant](https://guides.hexlet.io/vagrant/)
+* [VirtualBox](https://codica.la/guias/virtualbox)
+* [Vagrant](https://codica.la/guias/vagrant)
