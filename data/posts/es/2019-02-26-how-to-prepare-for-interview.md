@@ -198,8 +198,3 @@ Aquí se evalúa el conocimiento de bibliotecas, frameworks, peculiaridades de l
 * [frontend](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 * [python](https://github.com/Devinterview-io/python-interview-questions)
 * [javascript](https://github.com/sudheerj/javascript-interview-questions)
-
-### Enlaces útiles
-
-* [Qué esperan los gerentes y programadores experimentados de los juniors](https://hexlet.io/blog/posts/chego-vy-zhdyote-ot-dzhuniora-otvechayut-rukovoditeli-i-opytnye-razrabotchiki)
-* [Qué esperan los empleadores de los juniors: análisis de vacantes](https://hexlet.io/blog/posts/chto-trebuyut-ot-dzhuniorov-rabotodateli-analiz-vakansiy-dlya-mladshih-programmistov)
