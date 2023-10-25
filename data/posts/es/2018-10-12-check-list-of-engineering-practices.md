@@ -117,7 +117,7 @@ _Cumplir con estas prácticas no garantiza que no haya problemas en la empresa. 
 **Enlaces**
 
 * [12 factores](https://12factor.net/es/)
-* [Comenzando a escribir pruebas (correctamente)](http://codica.la/blog/how-to-test-code)
+* [Comenzando a escribir pruebas (correctamente)](https://codica.la/blog/how-to-test-code)
 
 ## Lanzamiento de nuevas versiones (más relevante para proyectos web)
 

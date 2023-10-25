@@ -1,6 +1,6 @@
 ---
 title: Varias versiones de Python en una máquina Linux
-redirect_to: http://codica.la/blog/usando-varias-versiones-de-python-en-sistemas-operativos-unix
+redirect_to: https://codica.la/blog/usando-varias-versiones-de-python-en-sistemas-operativos-unix
 subtitle: Uso de varias versiones de Python en sistemas operativos tipo Unix.
 description: Métodos posibles para instalar varias versiones del entorno de ejecución de Python en una máquina que ejecuta un sistema operativo tipo Unix. Solución de problemas de instalación de aplicaciones diseñadas para una versión específica de Python utilizando entornos virtuales.
 image: "/assets/images/python-2-and-3-logo.png"

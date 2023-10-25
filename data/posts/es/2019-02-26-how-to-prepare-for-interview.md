@@ -42,8 +42,8 @@ Recomendaciones
 
 Enlaces
 
-* [Libros que todo programador debería leer](https://hexlet.io/pages/recommended-books)
-* [Proyectos de Hexlet](https://hexlet.io/projects)
+* [Libros que todo programador debería leer](https://codica.la/paginas/libros-recomendados)
+* [Proyectos de Hexlet](https://app.codica.la/my/learning)
 
 
 ### Problemas

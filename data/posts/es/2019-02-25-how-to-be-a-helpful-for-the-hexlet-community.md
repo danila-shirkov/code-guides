@@ -34,7 +34,7 @@ Tareas:
 
 ### Hexlet Guides
 
-[Sitio web con guías para principiantes](https://guides.hexlet.io/). Este artículo también se encuentra en el sitio. Comenzamos a crearlo cuando nos dimos cuenta de que no había guías buenas para principiantes en muchos temas. Las guías pueden ser sobre cualquier tema, no solo sobre programación.
+[Sitio web con guías para principiantes](https://codica.la/guias/). Este artículo también se encuentra en el sitio. Comenzamos a crearlo cuando nos dimos cuenta de que no había guías buenas para principiantes en muchos temas. Las guías pueden ser sobre cualquier tema, no solo sobre programación.
 
 Enlaces:
 
@@ -90,7 +90,7 @@ La comunicación sobre el proyecto se lleva a cabo en el canal codebattle en [Te
 
 ### Hexlet CV
 
-[cv.hexlet.io](https://cv.hexlet.io/) es un proyecto de código abierto para solicitantes de empleo y especialistas en recursos humanos. Los candidatos publican sus currículums en el sitio y los expertos en recursos humanos experimentados brindan recomendaciones sobre cómo mejorar estos documentos. El proyecto utiliza Ruby on Rails.
+[cv.hexlet.io](https://codica.la/cv) es un proyecto de código abierto para solicitantes de empleo y especialistas en recursos humanos. Los candidatos publican sus currículums en el sitio y los expertos en recursos humanos experimentados brindan recomendaciones sobre cómo mejorar estos documentos. El proyecto utiliza Ruby on Rails.
 
 Enlaces:
 
@@ -230,7 +230,7 @@ A veces, otros usuarios responden a las preguntas, especialmente cuando están t
 
 Enlaces:
 
-* [Lista general de preguntas en la comunidad](https://ru.hexlet.io/my/topics)
+* [Lista general de preguntas en la comunidad](https://app.codica.la/my/topics)
 
 Tareas:
 
@@ -238,7 +238,7 @@ Tareas:
 
 ### Blog
 
-[Blog](https://hexlet.io/blog) - Cada mes, decenas de miles de personas visitan el blog de Hexlet. Publicamos tanto artículos traducidos que nos gustan como nuestros propios artículos. A veces, los usuarios también dejan sus publicaciones.
+[Blog](https://codica.la/blog) - Cada mes, decenas de miles de personas visitan el blog de Hexlet. Publicamos tanto artículos traducidos que nos gustan como nuestros propios artículos. A veces, los usuarios también dejan sus publicaciones.
 
 Cualquier usuario puede escribir en el blog. Hay tres categorías de publicaciones que se pueden agregar:
 
@@ -262,7 +262,7 @@ La lista de temas no es exhaustiva.
 
 Enlaces:
 
-* [Escribir en el blog](https://hexlet.io/my/blog_posts/myself)
+* [Escribir en el blog](https://app.codica.la/my/blog_posts/myself)
 
 Tarea:
 
@@ -276,7 +276,7 @@ Siempre faltan desafíos. En algunos cursos hay muy pocos o ninguno. De vez en c
 
 Enlaces:
 
-* [Lista de todos los desafíos](https://hexlet.io/challenges)
+* [Lista de todos los desafíos](https://app.codica.la/challenges)
 
 Tareas:
 
@@ -284,7 +284,7 @@ Tareas:
 
 ### Reseñas
 
-¿Has completado cursos o proyectos y tienes algo que compartir? Envía tu reseña a support@hexlet.io y la agregaremos a la página de [reseñas](https://hexlet.io/testimonials)
+¿Has completado cursos o proyectos y tienes algo que compartir? Envía tu reseña a support@hexlet.io y la agregaremos a la página de [reseñas](https://codica.la/testimonials)
 
 ## Youtube
 

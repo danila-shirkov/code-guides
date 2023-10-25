@@ -123,11 +123,11 @@ Tu código en GitHub dice lo siguiente de inmediato:
 
 ### ¿Qué se puede agregar en GitHub?
 
-Los libros de programación a menudo contienen ejercicios al final de los capítulos. Crea un repositorio separado para cada libro y sube el código allí. Para SICP, tenemos [una guía completa](http://codica.la/guias/how-to-learn-sicp).
+Los libros de programación a menudo contienen ejercicios al final de los capítulos. Crea un repositorio separado para cada libro y sube el código allí. Para SICP, tenemos [una guía completa](https://codica.la/guias/how-to-learn-sicp).
 
 En Hexlet, hemos recopilado una gran [colección de pruebas de trabajo](https://github.com/Hexlet/ru-test-assignments) para diferentes puestos de muchas empresas. Encuentra algo que te guste y ponlo en práctica.
 
-GitHub no solo es un lugar conveniente para almacenar tu código, sino también una forma de involucrarte en el desarrollo de proyectos de otras personas. Únete al [Open Source](http://codica.la/blog/participate-in-open-source).
+GitHub no solo es un lugar conveniente para almacenar tu código, sino también una forma de involucrarte en el desarrollo de proyectos de otras personas. Únete al [Open Source](https://codica.la/blog/participate-in-open-source).
 
 ## Habilidades clave
 

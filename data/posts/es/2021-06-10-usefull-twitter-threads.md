@@ -98,7 +98,7 @@ author: Kirill Mokevnin
 
 ## Principios al escribir código
 
-> Tengo una lista de principios que sigo al escribir código. Puedes encontrar una lista breve aquí https://ru.hexlet.io/pages/principles, pero sin explicaciones, y la gente tiene preguntas. Es hora de responder por mis palabras. Like, hilo, influencia =>
+> Tengo una lista de principios que sigo al escribir código. Puedes encontrar una lista breve aquí https://app.codica.la/paginas/principles, pero sin explicaciones, y la gente tiene preguntas. Es hora de responder por mis palabras. Like, hilo, influencia =>
 
 [Enlace al hilo](https://twitter.com/mokevnin/status/1550195933949878278?s=20)
 
