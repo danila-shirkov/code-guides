@@ -166,4 +166,3 @@ El trabajo no es solo un proceso mecánico. Incluso los desarrolladores pasan mu
 * [Entrevista con un reclutador. ¿Cómo es la primera entrevista como programador web?](https://www.youtube.com/watch?v=CdD2OgNvs9s&t=1s&ab_channel=EduardoFierro)
 * [Cómo responder correctamente a una oferta de trabajo: consejos de la gerente de recursos humanos de Hexlet, Lyudmila Semyonova](https://codica.la/blog/como-responder-correctamente-a-una-oferta-de-empleo)
 * [En el currículum no debe haber cambios frecuentes de trabajo: recomendaciones del líder de equipo de Evrone, Dmitry Matveev](https://codica.la/blog/tu-cv-no-debe-incluir-cambios-frecuentes-de-trabajo)
-* [Expertos en recursos humanos hablan sobre el empleo](https://ru.hexlet.io/blog/posts/neprostye-otvety-na-prostye-voprosy-hr-eksperty-rasskazyvayut-o-trudoustroystve)
