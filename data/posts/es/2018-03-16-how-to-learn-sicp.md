@@ -99,8 +99,6 @@ En GitHub [puedes encontrar](https://github.com/search?q=sicp) muchos repositori
 
 ## Enlaces adicionales
 
-* [Servicio para rastrear el progreso de estudio del libro](https://sicp.hexlet.io/)
-
 * [Conferencia de los autores del curso con subtítulos en español](https://www.youtube.com/watch?v=-J_xL4IGhJA&list=PLE18841CABEA24090&ab_channel=MITOpenCourseWare)
 
 * [Descargar libro Estructura e Interpretación de Programas Informáticos - SICP](https://linux.ime.usp.br/~lucasmmg/livecd/documentacao/documentos/sicp.pdf)
